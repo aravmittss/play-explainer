@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Play Explainer</title>
+<style>
+  :root { --bg: #0f1115; --panel: #181b22; --ink: #f2f4f7; --quiet: #9aa3ad; --good: #2fbf71; --bad: #e5484d; --flat: #9aa3ad; }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font-family: Inter, system-ui, sans-serif; }
+  header { padding: 12px 20px; display: flex; gap: 12px; align-items: center; flex-wrap: wrap; border-bottom: 1px solid #262a33; }
+  header h1 { font-size: 16px; margin: 0 12px 0 0; }
+  label { font-size: 13px; color: var(--quiet); }
+  main { display: grid; grid-template-columns: 3fr 2fr; gap: 16px; padding: 16px 20px; height: calc(100vh - 60px); }
+  @media (max-width: 800px) { main { grid-template-columns: 1fr; height: auto; } }
+  video { width: 100%; border-radius: 8px; background: #000; }
+  #feed { overflow-y: auto; display: flex; flex-direction: column; gap: 10px; }
+  .card { background: var(--panel); border-radius: 8px; padding: 12px 14px; border-left: 4px solid var(--flat); }
+  .card.helped { border-left-color: var(--good); }
+  .card.hurt { border-left-color: var(--bad); }
+  .card.now { outline: 1px solid #3b4250; }
+  .meta { font-size: 12px; color: var(--quiet); margin-bottom: 4px; }
+  .headline { font-weight: 600; margin-bottom: 6px; }
+  .body { font-size: 14px; line-height: 1.45; }
+  .verdict { font-size: 12px; font-weight: 600; margin-top: 6px; }
+  .helped .verdict { color: var(--good); } .hurt .verdict { color: var(--bad); }
+  .empty { color: var(--quiet); font-size: 14px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Play Explainer</h1>
+  <label>Video <input type="file" id="videoFile" accept="video/*"></label>
+  <label>Explanations JSON <input type="file" id="jsonFile" accept=".json"></label>
+  <label><input type="checkbox" id="showAll"> Show all moments (no video)</label>
+</header>
+<main>
+  <section><video id="video" controls></video></section>
+  <section id="feed"><p class="empty">Load a video and an explanations JSON from data/.</p></section>
+</main>
+<script>
+  var moments = [];
+  var shown = {};
+  var video = document.getElementById("video");
+  var feed = document.getElementById("feed");
+
+  document.getElementById("videoFile").addEventListener("change", function (e) {
+    if (e.target.files[0]) { video.src = URL.createObjectURL(e.target.files[0]); }
+  });
+
+  document.getElementById("jsonFile").addEventListener("change", function (e) {
+    var file = e.target.files[0];
+    if (!file) { return; }
+    file.text().then(function (text) {
+      moments = JSON.parse(text);
+      reset();
+      if (document.getElementById("showAll").checked) { moments.forEach(addCard); }
+    });
+  });
+
+  document.getElementById("showAll").addEventListener("change", function (e) {
+    reset();
+    if (e.target.checked) { moments.forEach(addCard); }
+  });
+
+  function reset() { shown = {}; feed.innerHTML = ""; }
+
+  function addCard(m) {
+    if (shown[m.play_id]) { return; }
+    shown[m.play_id] = true;
+    var old = feed.querySelectorAll(".now");
+    for (var i = 0; i < old.length; i++) { old[i].classList.remove("now"); }
+    var card = document.createElement("div");
+    card.className = "card now " + m.verdict;
+    var verdictText = m.verdict === "helped" ? "Helped " + m.team : (m.verdict === "hurt" ? "Hurt " + m.team : "Small change for " + m.team);
+    card.innerHTML =
+      '<div class="meta"></div><div class="headline"></div>' +
+      '<div class="body what"></div><div class="body who"></div><div class="body why"></div>' +
+      '<div class="verdict"></div>';
+    card.querySelector(".meta").textContent = "Q" + m.qtr + " " + m.clock + "  |  " + m.score;
+    card.querySelector(".headline").textContent = m.headline;
+    card.querySelector(".what").textContent = m.what_happened;
+    card.querySelector(".who").textContent = m.who;
+    card.querySelector(".why").textContent = m.why_it_matters;
+    card.querySelector(".verdict").textContent = verdictText;
+    feed.prepend(card);
+  }
+
+  // Show each explanation when the video reaches its start time. Seeking back clears the feed.
+  var lastTime = 0;
+  video.addEventListener("timeupdate", function () {
+    var t = video.currentTime;
+    if (t < lastTime - 1) { reset(); }
+    lastTime = t;
+    for (var i = 0; i < moments.length; i++) {
+      var m = moments[i];
+      if (m.video_start !== null && m.video_start !== undefined && t >= m.video_start) { addCard(m); }
+    }
+  });
+</script>
+</body>
+</html>
