@@ -1,0 +1,20 @@
+{
+ "headline": "The Colts get a first down",
+ "what_happened": "On their fourth and final try, the Colts ran the ball forward to gain enough yards to keep their turn with the ball.",
+ "who": "J.Taylor ran the ball while C.Jones defended for the Chiefs.",
+ "why_it_matters": "This is bad news for the Chiefs because it keeps the Colts' drive alive, increasing their chances of winning by 8 percentage points. Since the Chiefs are still ahead 10-7, they will need their defense to step up.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "J.Taylor",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 813.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

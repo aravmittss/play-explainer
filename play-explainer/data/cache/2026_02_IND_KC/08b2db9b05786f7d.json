@@ -1,0 +1,20 @@
+{
+ "headline": "Chiefs defense stops the Colts",
+ "what_happened": "On third down, which is the third of four chances to move the ball, the quarterback D.Jones ran but was forced out of bounds after gaining only five yards.",
+ "who": "D.Jones ran, and J.Hicks made the tackle for Kansas City.",
+ "why_it_matters": "This is great news for our Chiefs! By stopping the Colts from getting closer to a touchdown, the Colts' chances of winning the game have dropped by 7 percentage points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4640.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

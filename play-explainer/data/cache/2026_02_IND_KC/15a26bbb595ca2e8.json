@@ -1,0 +1,20 @@
+{
+ "headline": "A great stop for the Chiefs",
+ "what_happened": "The Colts tried to run the ball on the first down, but the Chiefs' defense tackled the runner behind the line of scrimmage for a one-yard loss.",
+ "who": "D.Tranquill made the tackle on J.Taylor.",
+ "why_it_matters": "This is excellent news for the Chiefs because it pushes the Colts further back, making it harder for them to score. The Colts' chance of winning dropped by 12 percentage points after this play.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "J.Taylor",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4596.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

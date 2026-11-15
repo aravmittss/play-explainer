@@ -1,0 +1,31 @@
+{
+ "headline": "Moving the chains right down the field!",
+ "what_happened": "On a third down, which is the offense's third and final try to gain enough ground, T.Warren ran up the middle for 3 yards to get a fresh set of downs.",
+ "who": "T.Warren and G.Karlaftis",
+ "why_it_matters": "Getting those yards keeps the drive alive and bumps the Colts' chances of winning up by 2 percentage points.",
+ "pop_culture": "Taylor Swift is watching from the suite, just like when her vintage Chiefs tank top sold out.",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "T.Warren",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [
+  {
+   "outlet": "Larry Brown Sports (citing Front Office Sports)",
+   "title": "Taylor Swift appears to set off massive Chiefs merchandise onslaught",
+   "url": "https://larrybrownsports.com/football/taylor-swift-appears-massive-chiefs-merchandise-onslaught/771220"
+  },
+  {
+   "outlet": "KCTV5",
+   "title": "'That's my husband!' Taylor Swift takes on full WAG status during SNF",
+   "url": "https://www.kctv5.com/2026/09/21/thats-my-husband-taylor-swift-takes-full-wag-status-during-snf/"
+  }
+ ],
+ "play_id": 109.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

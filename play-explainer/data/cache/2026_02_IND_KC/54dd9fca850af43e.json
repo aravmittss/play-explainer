@@ -1,0 +1,20 @@
+{
+ "headline": "Chiefs get the first down!",
+ "what_happened": "On fourth down, which is their final chance to move the ball, K.Tonga ran forward to gain the yards needed for a new set of four plays.",
+ "who": "K.Tonga carried the ball for Kansas City.",
+ "why_it_matters": "This is great news for the Chiefs as they keep possession of the ball, which increased their chances of winning by 8 percentage points.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "K.Tonga",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 2404.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

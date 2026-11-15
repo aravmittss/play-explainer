@@ -1,0 +1,20 @@
+{
+ "headline": "A field goal for Indianapolis",
+ "what_happened": "The Indianapolis kicker successfully sent the ball through the goalposts for three points, which is called a field goal.",
+ "who": "S.Shrader kicked the ball for Indianapolis.",
+ "why_it_matters": "This is bad news for Kansas City as it gives Indianapolis the lead, increasing their chances of winning the game by 5 percentage points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "S.Shrader",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4698.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

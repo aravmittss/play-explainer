@@ -1,0 +1,20 @@
+{
+ "headline": "Chiefs score their first points!",
+ "what_happened": "H.Butker successfully kicked a 46-yard field goal, which is a kick through the goalposts worth three points.",
+ "who": "H.Butker, J.Winchester, and M.Araiza executed the kick for Kansas City.",
+ "why_it_matters": "This score is great news for the Chiefs because it puts them on the board and improves their chances of winning by 2 percentage points.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "H.Butker",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [],
+ "play_id": 531.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

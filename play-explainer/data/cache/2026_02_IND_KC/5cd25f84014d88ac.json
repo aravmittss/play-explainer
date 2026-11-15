@@ -1,0 +1,20 @@
+{
+ "headline": "Indianapolis scores a touchdown",
+ "what_happened": "J.Taylor ran the ball five yards into the end zone for a touchdown, which is the six-point way to score.",
+ "who": "J.Taylor scored for Indianapolis.",
+ "why_it_matters": "This is tough news for Kansas City because it helps Indianapolis and increases their chance of winning by 6 percentage points. Kansas City is still in the lead by one point, but this play makes the game much closer.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "J.Taylor",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3579.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

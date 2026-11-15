@@ -16,10 +16,10 @@ from pipeline.personas import PERSONAS
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--game", default="2025_21_LA_SEA")
+    parser.add_argument("--game", default="2026_02_IND_KC")
     parser.add_argument("--provider", default="template")
     parser.add_argument("--model", default=None)
-    parser.add_argument("--moment", type=int, default=1, help="which moment to compare across personas")
+    parser.add_argument("--moment", type=int, default=5, help="which moment to compare across personas")
     args = parser.parse_args()
 
     for name in list(PERSONAS.keys()):
@@ -39,6 +39,8 @@ def main():
         print("  " + item["headline"])
         print("  " + item["what_happened"])
         print("  " + item["why_it_matters"])
+        if item.get("pop_culture"):
+            print("  * " + item["pop_culture"])
 
 
 if __name__ == "__main__":

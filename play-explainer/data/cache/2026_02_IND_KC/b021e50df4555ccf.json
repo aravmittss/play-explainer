@@ -1,0 +1,20 @@
+{
+ "headline": "Chiefs extend their lead",
+ "what_happened": "H.Butker kicked a 28-yard field goal, which is worth 3 points for the Chiefs.",
+ "who": "H.Butker, J.Winchester, and M.Araiza executed the kick.",
+ "why_it_matters": "This good news adds to the Chiefs' lead and increases their chances of winning by 2 percentage points.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "neutral",
+ "players": [
+  {
+   "name": "H.Butker",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3179.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

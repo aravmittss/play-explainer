@@ -1,0 +1,24 @@
+{
+ "headline": "A first down for the Colts",
+ "what_happened": "D.Jones threw a short pass to J.Downs for 7 yards, earning a first down which gives them a fresh set of four tries to move the ball.",
+ "who": "D.Jones and J.Downs led the play, while L.Sneed and C.Jones defended for the Chiefs.",
+ "why_it_matters": "This is bad news for the Chiefs because it keeps the Colts moving toward the end zone, increasing their chance of winning by 4 percentage points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "J.Downs",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 1993.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

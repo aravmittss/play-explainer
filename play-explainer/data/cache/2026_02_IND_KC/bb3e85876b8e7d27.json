@@ -1,0 +1,24 @@
+{
+ "headline": "Colts move closer with a big gain",
+ "what_happened": "D.Jones threw a pass to J.Downs for 11 yards, and a penalty on J.Hicks gave the Colts two extra yards.",
+ "who": "D.Jones, J.Downs, and J.Hicks were involved in this play.",
+ "why_it_matters": "This is bad news for the Chiefs because it keeps the Colts' drive alive, and their chances of winning have gone up by 7 percentage points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "J.Downs",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 282.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "Chiefs extend their lead with field goal",
+ "what_happened": "H.Butker kicked a 28-yard field goal, which is when a team kicks the ball through the goalposts for three points instead of trying to score a touchdown.",
+ "who": "H.Butker, J.Winchester, and M.Araiza",
+ "why_it_matters": "The Chiefs are now ahead by seven points, which slightly increases their chances of winning the game.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "neutral",
+ "players": [
+  {
+   "name": "H.Butker",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3179.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

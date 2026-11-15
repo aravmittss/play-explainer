@@ -1,0 +1,31 @@
+{
+ "headline": "Chiefs win in overtime",
+ "what_happened": "H.Butker kicked a successful 40-yard field goal, which is a kick through the goalposts for 3 points, to end the game.",
+ "who": "H.Butker kicked the ball, with help from J.Winchester and M.Araiza.",
+ "why_it_matters": "This good news means the Chiefs have officially won the game! This kick increased their win probability by 8 percentage points, securing the victory.",
+ "pop_culture": "This winning kick happened right as the game ended, just like in the hype video set to Taylor's song that aired before kickoff.",
+ "team": "KC",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "H.Butker",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [
+  {
+   "outlet": "Fox19 (Gray News)",
+   "title": "'That's my husband!' Taylor Swift takes on full WAG status during SNF",
+   "url": "https://www.fox19.com/2026/09/21/thats-my-husband-taylor-swift-takes-full-wag-status-during-snf/"
+  },
+  {
+   "outlet": "ClutchPoints",
+   "title": "Taylor Swift lends song to NBC's Nikki Glaser SNF hype video",
+   "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-lends-song-to-nbc-nikki-glaser-snf-hype-video-colts"
+  }
+ ],
+ "play_id": 4908.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

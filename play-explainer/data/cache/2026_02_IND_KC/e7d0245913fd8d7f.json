@@ -1,0 +1,24 @@
+{
+ "headline": "A big first down for Indianapolis",
+ "what_happened": "D.Jones threw a short pass to J.Downs, who caught it and gained enough yards to earn a first down, giving his team a fresh set of four tries.",
+ "who": "D.Jones threw the pass to J.Downs, with L.Sneed and N.Bolton defending.",
+ "why_it_matters": "This is bad news for KC because it keeps the opposing team moving closer to the end zone. The Colts increased their chances of winning by 7 percentage points, making this drive more dangerous.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "J.Downs",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3529.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

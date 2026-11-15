@@ -1,0 +1,24 @@
+{
+ "headline": "Chiefs defense stops the Colts",
+ "what_happened": "D.Jones threw a short pass to K.Allen for five yards, but it wasn't enough to get a first down, which is the 10 yards needed for a fresh set of chances.",
+ "who": "D.Jones, K.Allen, K.Fulton, and R.Thomas.",
+ "why_it_matters": "This is great news for our Chiefs because it keeps the Colts from moving closer to the goal line. Stopping them here barely changes the win probability, but it keeps KC comfortably in the lead.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "neutral",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "K.Allen",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3402.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

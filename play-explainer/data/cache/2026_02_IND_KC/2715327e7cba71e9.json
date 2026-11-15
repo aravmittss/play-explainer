@@ -1,0 +1,20 @@
+{
+ "headline": "Chiefs defense stops the Colts",
+ "what_happened": "In overtime, the Colts running back J.Taylor tried to run the ball forward but was tackled behind the line of scrimmage by N.Bolton for a loss of two yards.",
+ "who": "J.Taylor for the Colts and N.Bolton for the Chiefs.",
+ "why_it_matters": "This is great news for the Chiefs as it makes it much harder for the Colts to score. It significantly lowers the Colts' chances of winning this game while keeping the Chiefs in the lead.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "J.Taylor",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4618.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

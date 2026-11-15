@@ -1,0 +1,24 @@
+{
+ "headline": "A massive gain for the Chiefs!",
+ "what_happened": "P.Mahomes threw a long pass to T.Thornton, who caught it and ran all the way to the one-yard line for a huge gain.",
+ "who": "P.Mahomes threw the ball to T.Thornton.",
+ "why_it_matters": "This is great news for our Chiefs! This big play moved us way closer to the end zone and jumped our chances of winning by 22 percent.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "T.Thornton",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 2489.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

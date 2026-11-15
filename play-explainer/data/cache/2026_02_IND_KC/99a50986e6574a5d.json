@@ -1,0 +1,20 @@
+{
+ "headline": "Big defensive stop for the Chiefs",
+ "what_happened": "The Colts tried to pass the ball on third down, but the pass fell incomplete and they failed to gain yards.",
+ "who": "D.Jones threw the ball while F.Anudike-Uzomah pressured him for the Chiefs.",
+ "why_it_matters": "This is great news for the Chiefs because it forces the Colts into a tough spot and lowers their chances of winning by 8 percentage points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3945.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

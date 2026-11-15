@@ -1,0 +1,24 @@
+{
+ "headline": "Crucial first down for Indianapolis",
+ "what_happened": "On third down, which is the third of four tries the offense gets to move the ball, D.Jones threw a short pass to J.Downs for a gain that earned a first down.",
+ "who": "D.Jones and J.Downs moved the ball for the Indianapolis offense.",
+ "why_it_matters": "This is tough news for our Chiefs since it keeps the Indianapolis drive alive. It increases their chances of winning by 9 percentage points while the score remains tied.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "J.Downs",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3868.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

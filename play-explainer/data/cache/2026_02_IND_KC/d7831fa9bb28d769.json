@@ -1,0 +1,24 @@
+{
+ "headline": "Chiefs defense stops the Colts",
+ "what_happened": "The Colts gained five yards on a pass play, but because they needed six yards for a first down, they failed to get a new set of four tries.",
+ "who": "D.Jones, K.Allen, K.Fulton, and R.Thomas.",
+ "why_it_matters": "This is great news for the Chiefs because it forces the Colts to give up the ball or take a gamble on their next try. The Chiefs now have a slightly better chance to win the game.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "neutral",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "K.Allen",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3402.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

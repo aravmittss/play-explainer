@@ -1,0 +1,24 @@
+{
+ "headline": "Big gain keeps the Chiefs moving",
+ "what_happened": "P.Mahomes completed a pass to K.Walker for 22 yards, earning a first down which is a new set of four tries to move down the field.",
+ "who": "P.Mahomes threw to K.Walker.",
+ "why_it_matters": "This is great news for the Chiefs! It moved them much closer to scoring and increased their chance of winning by 24 percentage points.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "K.Walker",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4843.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

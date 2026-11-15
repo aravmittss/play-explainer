@@ -1,0 +1,34 @@
+{
+ "headline": "Great news: Chiefs get the ball back!",
+ "what_happened": "K.Fulton caught a pass meant for the other team, which is called an interception.",
+ "who": "K.Fulton intercepted the ball from D.Jones.",
+ "why_it_matters": "This is a big win for the Chiefs because it stops the other team from moving closer to scoring. It boosts their chances of winning significantly and gives our team a new chance to score.",
+ "pop_culture": "This exciting play set the stage for a touchdown by Travis Kelce on the very next drive.",
+ "team": "IND",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "K.Allen",
+   "role": "caught the pass"
+  },
+  {
+   "name": "K.Fulton",
+   "role": "intercepted the pass"
+  }
+ ],
+ "read_more": [
+  {
+   "outlet": "ClutchPoints",
+   "title": "Taylor Swift's 3-word message after Travis Kelce's first TD",
+   "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-3-word-message-travis-kelce-1st-td"
+  }
+ ],
+ "play_id": 614.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

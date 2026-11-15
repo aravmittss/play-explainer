@@ -1,0 +1,20 @@
+{
+ "headline": "Indianapolis keeps their drive alive",
+ "what_happened": "On fourth down, which is a gamble to keep the ball, J.Taylor ran three yards to get a first down and keep the drive going.",
+ "who": "J.Taylor and C.Jones were the key players.",
+ "why_it_matters": "This is bad news for the Chiefs because it gives Indianapolis more chances to score. It increased Indianapolis's win chance by 8 percentage points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "J.Taylor",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 813.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

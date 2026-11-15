@@ -1,0 +1,20 @@
+{
+ "headline": "Colts kick a successful field goal",
+ "what_happened": "The Indianapolis Colts kicked the ball through the yellow goalposts for three points.",
+ "who": "S.Shrader kicked the field goal.",
+ "why_it_matters": "This is bad news for the Chiefs as it increases the Colts' chance of winning by 8 percentage points, making the score IND 13, KC 10.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "S.Shrader",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [],
+ "play_id": 1397.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

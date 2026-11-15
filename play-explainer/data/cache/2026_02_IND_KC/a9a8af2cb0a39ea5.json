@@ -1,0 +1,20 @@
+{
+ "headline": "A big move for the Colts",
+ "what_happened": "On fourth down, which is their final chance to gain enough yards, Indianapolis ran the ball and gained three yards to move past the required distance.",
+ "who": "J.Taylor ran the ball while C.Jones played defense.",
+ "why_it_matters": "This is tough news for the Chiefs because the Colts earned a fresh set of four tries, increasing their win chance by 8 percentage points. It keeps the Colts moving toward our end of the field.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "J.Taylor",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 813.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

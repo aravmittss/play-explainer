@@ -1,0 +1,20 @@
+{
+ "headline": "A field goal for Indianapolis",
+ "what_happened": "The Indianapolis kicker successfully made a 38-yard field goal, which is a kick through the goalposts worth three points.",
+ "who": "Kicker S.Shrader scored for Indianapolis.",
+ "why_it_matters": "This is tough news for the Chiefs as Indianapolis takes the lead, increasing their chance of winning by 5 percentage points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "S.Shrader",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4698.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

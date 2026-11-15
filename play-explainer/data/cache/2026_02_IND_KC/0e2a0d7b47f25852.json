@@ -1,0 +1,31 @@
+{
+ "headline": "Indianapolis keeps their drive alive",
+ "what_happened": "T.Warren ran the ball up the middle for three yards, which gives Indianapolis a first down—a fresh set of four tries to move the ball.",
+ "who": "T.Warren carried the ball while G.Karlaftis tried to stop him.",
+ "why_it_matters": "This is bad news for the Chiefs because it helps Indianapolis keep their offense on the field. Their chance of winning increased by 2 percentage points.",
+ "pop_culture": "Taylor Swift is watching from the family suite at Arrowhead, and the vintage Chiefs tank top she wore sold out online after the game.",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "T.Warren",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [
+  {
+   "outlet": "Larry Brown Sports (citing Front Office Sports)",
+   "title": "Taylor Swift appears to set off massive Chiefs merchandise onslaught",
+   "url": "https://larrybrownsports.com/football/taylor-swift-appears-massive-chiefs-merchandise-onslaught/771220"
+  },
+  {
+   "outlet": "KCTV5",
+   "title": "'That's my husband!' Taylor Swift takes on full WAG status during SNF",
+   "url": "https://www.kctv5.com/2026/09/21/thats-my-husband-taylor-swift-takes-full-wag-status-during-snf/"
+  }
+ ],
+ "play_id": 109.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "Chiefs get points on the board",
+ "what_happened": "H.Butker successfully kicked a 46-yard field goal, which is worth 3 points, after the team could not get a first down.",
+ "who": "H.Butker kicked the ball for the Chiefs.",
+ "why_it_matters": "This is good news because it puts the Chiefs on the board. This kick increased their chances of winning by 2 percentage points.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "H.Butker",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [],
+ "play_id": 531.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

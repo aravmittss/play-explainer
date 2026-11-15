@@ -1,0 +1,24 @@
+{
+ "headline": "Chiefs defense holds steady on third down",
+ "what_happened": "The Indianapolis quarterback threw a short pass to J.Downs that gained seven yards, giving them a first down, but offsetting penalties kept the situation mostly the same.",
+ "who": "L.Sneed and C.Jones defended against D.Jones and J.Downs.",
+ "why_it_matters": "This play helped Indianapolis move closer to scoring, which increased their chances of winning by four percentage points. The Chiefs are still leading by four points, so they need to stay focused on their next defensive stop.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "J.Downs",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 1993.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

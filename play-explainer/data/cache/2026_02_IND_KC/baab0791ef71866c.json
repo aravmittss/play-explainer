@@ -1,0 +1,34 @@
+{
+ "headline": "A big defensive play for Kansas City",
+ "what_happened": "K.Fulton caught the ball thrown by D.Jones for an interception, which is when the defense steals the ball from the offense.",
+ "who": "K.Fulton intercepted D.Jones.",
+ "why_it_matters": "This is great news for the Chiefs as it stops the Colts and gives KC a much better chance to win the game. It hurts the Colts' chances of winning by 15 percentage points.",
+ "pop_culture": "This interception set up a touchdown for Taylor Swift's boyfriend, Travis Kelce, on the very next drive.",
+ "team": "IND",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "K.Allen",
+   "role": "caught the pass"
+  },
+  {
+   "name": "K.Fulton",
+   "role": "intercepted the pass"
+  }
+ ],
+ "read_more": [
+  {
+   "outlet": "ClutchPoints",
+   "title": "Taylor Swift's 3-word message after Travis Kelce's first TD",
+   "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-3-word-message-travis-kelce-1st-td"
+  }
+ ],
+ "play_id": 614.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

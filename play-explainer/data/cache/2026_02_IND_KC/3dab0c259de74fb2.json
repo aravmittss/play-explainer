@@ -1,0 +1,24 @@
+{
+ "headline": "Chiefs play stopped on third down",
+ "what_happened": "P.Mahomes threw a pass to R.Rice, but the ball fell to the ground incomplete.",
+ "who": "P.Mahomes and R.Rice are the key players.",
+ "why_it_matters": "This is bad news for the Chiefs because they failed to gain enough yards on their third attempt. It makes it harder to win by dropping their chances by 6 percentage points.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "R.Rice",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3745.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

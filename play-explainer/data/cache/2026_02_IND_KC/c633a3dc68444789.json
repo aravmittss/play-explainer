@@ -1,0 +1,24 @@
+{
+ "headline": "Touchdown for the Colts!",
+ "what_happened": "D.Jones threw a short pass to T.Warren for a 1-yard touchdown.",
+ "who": "D.Jones and T.Warren scored for the Colts.",
+ "why_it_matters": "This put the Colts on the board with 6 points, raising their chance of winning by 1 percentage point, like getting a glittering opening track just right.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "neutral",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "T.Warren",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 340.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

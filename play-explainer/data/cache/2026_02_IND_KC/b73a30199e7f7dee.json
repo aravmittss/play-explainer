@@ -1,0 +1,24 @@
+{
+ "headline": "Chiefs play falls incomplete",
+ "what_happened": "P.Mahomes tried to pass the ball to K.Walker, but it hit the ground instead of being caught.",
+ "who": "P.Mahomes and K.Walker are the key players.",
+ "why_it_matters": "Since they did not catch the ball, the Chiefs now face a difficult situation to keep their drive going. This missed play slightly lowered their chances of winning the game.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "K.Walker",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4432.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

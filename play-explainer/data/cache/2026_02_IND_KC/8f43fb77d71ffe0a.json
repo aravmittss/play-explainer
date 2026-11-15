@@ -1,0 +1,30 @@
+{
+ "headline": "A big gain for the Chiefs",
+ "what_happened": "P.Mahomes threw the ball to T.Kelce for a 16-yard gain, which gives the Chiefs a fresh set of four tries to move down the field.",
+ "who": "P.Mahomes passed to T.Kelce.",
+ "why_it_matters": "This successful play is great news for the Chiefs and boosts their chances of winning the game by 6 percentage points. Moving the ball like this keeps their drive alive and puts them in a better position to score.",
+ "pop_culture": "T.Kelce caught another pass and led the team with nine catches and 101 yards tonight.",
+ "team": "KC",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "T.Kelce",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [
+  {
+   "outlet": "ClutchPoints",
+   "title": "Taylor Swift lends song to NBC's Nikki Glaser SNF hype video",
+   "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-lends-song-to-nbc-nikki-glaser-snf-hype-video-colts"
+  }
+ ],
+ "play_id": 2884.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

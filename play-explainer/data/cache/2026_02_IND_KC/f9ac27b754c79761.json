@@ -1,0 +1,20 @@
+{
+ "headline": "Chiefs defense faces a tough play",
+ "what_happened": "The Indianapolis team went for it on their fourth try, which is their final chance to move the ball, and gained enough yards to keep their turn going.",
+ "who": "D.Jones carried the ball against G.Karlaftis and C.Jones.",
+ "why_it_matters": "This is bad news for the Chiefs because it gives Indianapolis more time to try and score. It increased the other team's chances of winning by 8 percentage points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3427.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

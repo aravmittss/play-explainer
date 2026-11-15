@@ -1,0 +1,24 @@
+{
+ "headline": "Chiefs face a tough third down",
+ "what_happened": "P.Mahomes tried to pass the ball to K.Walker, but it was incomplete, meaning the catch was not made.",
+ "who": "P.Mahomes threw the ball to K.Walker.",
+ "why_it_matters": "This is bad news for the Chiefs because they missed a chance to move closer to a touchdown, making their win chance drop by 4 percentage points.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "K.Walker",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4432.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

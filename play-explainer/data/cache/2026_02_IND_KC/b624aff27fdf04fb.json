@@ -1,0 +1,24 @@
+{
+ "headline": "Chiefs stay in control",
+ "what_happened": "P.Mahomes passed the ball to R.Rice for a short 6-yard gain on third down.",
+ "who": "P.Mahomes threw the pass to R.Rice.",
+ "why_it_matters": "Since they didn't get enough yards for a first down, the Chiefs are still leading by 4 points. They will likely choose to kick a field goal now, which is a kick through the goalposts worth 3 points.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "neutral",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "R.Rice",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3149.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Chiefs reach the ten yard line",
+ "what_happened": "P.Mahomes completed a short pass to R.Rice for six yards, but the team did not gain enough yards for a first down.",
+ "who": "P.Mahomes threw the ball to R.Rice.",
+ "why_it_matters": "Since they did not reach the first down marker, this is neutral for the Chiefs' winning chances. They are now very close to the end zone, which is a great spot to be in.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "neutral",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "R.Rice",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3149.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

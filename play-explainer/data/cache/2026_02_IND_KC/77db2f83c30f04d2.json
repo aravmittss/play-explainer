@@ -1,0 +1,24 @@
+{
+ "headline": "Chiefs play falls incomplete",
+ "what_happened": "P.Mahomes tried to pass the ball to R.Rice, but the catch didn't happen on this third down try.",
+ "who": "P.Mahomes and R.Rice.",
+ "why_it_matters": "Since the Chiefs didn't get the yards they needed, this is bad news for our team. It makes it slightly harder for them to win as the game remains tied.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "R.Rice",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3745.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

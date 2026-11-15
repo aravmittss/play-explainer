@@ -1,0 +1,1078 @@
+[
+ {
+  "headline": "Indianapolis keeps their drive alive",
+  "what_happened": "T.Warren ran the ball up the middle for three yards, which gives Indianapolis a first down—a fresh set of four tries to move the ball.",
+  "who": "T.Warren carried the ball while G.Karlaftis tried to stop him.",
+  "why_it_matters": "This is bad news for the Chiefs because it helps Indianapolis keep their offense on the field. Their chance of winning increased by 2 percentage points.",
+  "pop_culture": "Taylor Swift is watching from the family suite at Arrowhead, and the vintage Chiefs tank top she wore sold out online after the game.",
+  "team": "IND",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "T.Warren",
+    "role": "ran with the ball"
+   }
+  ],
+  "read_more": [
+   {
+    "outlet": "Larry Brown Sports (citing Front Office Sports)",
+    "title": "Taylor Swift appears to set off massive Chiefs merchandise onslaught",
+    "url": "https://larrybrownsports.com/football/taylor-swift-appears-massive-chiefs-merchandise-onslaught/771220"
+   },
+   {
+    "outlet": "KCTV5",
+    "title": "'That's my husband!' Taylor Swift takes on full WAG status during SNF",
+    "url": "https://www.kctv5.com/2026/09/21/thats-my-husband-taylor-swift-takes-full-wag-status-during-snf/"
+   }
+  ],
+  "play_id": 109.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 1,
+  "clock": "13:44",
+  "score": "IND 0 - 0 KC"
+ },
+ {
+  "headline": "A big play for the Colts",
+  "what_happened": "D.Jones threw a successful pass to J.Downs, and a penalty on J.Hicks gave the other team extra yardage.",
+  "who": "D.Jones, J.Downs, and J.Hicks.",
+  "why_it_matters": "This is bad news for our Chiefs because the Colts moved closer to the end zone. Their chances of winning increased by 7 percentage points.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "D.Jones",
+    "role": "threw the pass"
+   },
+   {
+    "name": "J.Downs",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 282.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 1,
+  "clock": "09:34",
+  "score": "IND 0 - 0 KC"
+ },
+ {
+  "headline": "Indianapolis scores a touchdown",
+  "what_happened": "D.Jones threw a short pass to T.Warren for a one-yard touchdown, which is six points for Indianapolis.",
+  "who": "D.Jones and T.Warren were the key players.",
+  "why_it_matters": "This is tough news for our Chiefs as Indianapolis now leads 6-0. This play increased their chances of winning by 1 percent.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "neutral",
+  "players": [
+   {
+    "name": "D.Jones",
+    "role": "threw the pass"
+   },
+   {
+    "name": "T.Warren",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 340.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": 0.0,
+  "video_end": 8.0,
+  "qtr": 1,
+  "clock": "08:28",
+  "score": "IND 6 - 0 KC"
+ },
+ {
+  "headline": "Chiefs get points on the board",
+  "what_happened": "H.Butker successfully kicked a 46-yard field goal, which is worth 3 points, after the team could not get a first down.",
+  "who": "H.Butker kicked the ball for the Chiefs.",
+  "why_it_matters": "This is good news because it puts the Chiefs on the board. This kick increased their chances of winning by 2 percentage points.",
+  "pop_culture": "",
+  "team": "KC",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "H.Butker",
+    "role": "kicked the field goal"
+   }
+  ],
+  "read_more": [],
+  "play_id": 531.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 1,
+  "clock": "06:13",
+  "score": "IND 7 - 3 KC"
+ },
+ {
+  "headline": "Huge turnover for the Chiefs!",
+  "what_happened": "The Chiefs' defense caught the other team's pass, which is called an interception, and took the ball back for Kansas City.",
+  "who": "K.Fulton intercepted the ball from D.Jones.",
+  "why_it_matters": "This is great news for your Chiefs! Stopping the other team this way gives Kansas City a much better chance to win the game.",
+  "pop_culture": "This play helped Travis Kelce score a touchdown on the very next drive.",
+  "team": "IND",
+  "verdict": "hurt",
+  "players": [
+   {
+    "name": "D.Jones",
+    "role": "threw the pass"
+   },
+   {
+    "name": "K.Allen",
+    "role": "caught the pass"
+   },
+   {
+    "name": "K.Fulton",
+    "role": "intercepted the pass"
+   }
+  ],
+  "read_more": [
+   {
+    "outlet": "ClutchPoints",
+    "title": "Taylor Swift's 3-word message after Travis Kelce's first TD",
+    "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-3-word-message-travis-kelce-1st-td"
+   }
+  ],
+  "play_id": 614.0,
+  "language": "English",
+  "source": "gemini",
+  "checks_failed": [],
+  "video_start": 22.0,
+  "video_end": 33.0,
+  "qtr": 1,
+  "clock": "05:25",
+  "score": "IND 7 - 3 KC"
+ },
+ {
+  "headline": "A touchdown for the Chiefs!",
+  "what_happened": "P.Mahomes threw a 13-yard pass to T.Kelce for a touchdown, which is worth 6 points.",
+  "who": "P.Mahomes connected with T.Kelce for the score.",
+  "why_it_matters": "This is great news for the Chiefs as it puts them ahead by 2 points. It also increases their chance of winning the game by 6 percentage points.",
+  "pop_culture": "After T.Kelce scored his first touchdown of the season, Taylor Swift pointed to her wedding ring and cheered for her husband.",
+  "team": "KC",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "P.Mahomes",
+    "role": "threw the pass"
+   },
+   {
+    "name": "T.Kelce",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [
+   {
+    "outlet": "ClutchPoints",
+    "title": "Taylor Swift's 3-word message after Travis Kelce's first TD",
+    "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-3-word-message-travis-kelce-1st-td"
+   },
+   {
+    "outlet": "KCTV5",
+    "title": "'That's my husband!' Taylor Swift takes on full WAG status during SNF",
+    "url": "https://www.kctv5.com/2026/09/21/thats-my-husband-taylor-swift-takes-full-wag-status-during-snf/"
+   }
+  ],
+  "play_id": 663.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": 41.0,
+  "video_end": 60.0,
+  "qtr": 1,
+  "clock": "04:40",
+  "score": "IND 7 - 9 KC"
+ },
+ {
+  "headline": "The Colts get a first down",
+  "what_happened": "On their fourth and final try, the Colts ran the ball forward to gain enough yards to keep their turn with the ball.",
+  "who": "J.Taylor ran the ball while C.Jones defended for the Chiefs.",
+  "why_it_matters": "This is bad news for the Chiefs because it keeps the Colts' drive alive, increasing their chances of winning by 8 percentage points. Since the Chiefs are still ahead 10-7, they will need their defense to step up.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "J.Taylor",
+    "role": "ran with the ball"
+   }
+  ],
+  "read_more": [],
+  "play_id": 813.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 1,
+  "clock": "02:27",
+  "score": "IND 7 - 10 KC"
+ },
+ {
+  "headline": "The game is now tied",
+  "what_happened": "S.Shrader kicked a 42-yard field goal, which is a kick through the goalposts for three points.",
+  "who": "S.Shrader, L.Rhodes, and R.Sanchez completed the kick for Indianapolis.",
+  "why_it_matters": "This is tough news for the Chiefs since the score is now tied, which increased Indianapolis's chances of winning by 4 percentage points.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "S.Shrader",
+    "role": "kicked the field goal"
+   }
+  ],
+  "read_more": [],
+  "play_id": 1004.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 2,
+  "clock": "14:52",
+  "score": "IND 10 - 10 KC"
+ },
+ {
+  "headline": "Colts kick a field goal",
+  "what_happened": "The Colts successfully kicked a 49-yard field goal, which is worth 3 points, to take the lead.",
+  "who": "S.Shrader kicked the ball for the Colts.",
+  "why_it_matters": "This is bad news for the Chiefs as they are now trailing by 3 points. The Colts increased their chances of winning by 8 percentage points with these points.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "S.Shrader",
+    "role": "kicked the field goal"
+   }
+  ],
+  "read_more": [],
+  "play_id": 1397.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 2,
+  "clock": "09:50",
+  "score": "IND 13 - 10 KC"
+ },
+ {
+  "headline": "Touchdown for the Chiefs!",
+  "what_happened": "P.Mahomes threw a short pass to X.Worthy, who caught it in the end zone for a touchdown, which is worth 6 points.",
+  "who": "P.Mahomes and X.Worthy executed the play for Kansas City.",
+  "why_it_matters": "This is great news for your boyfriend's team! It puts the Chiefs in the lead and increases their chance of winning by 4 percentage points.",
+  "pop_culture": "",
+  "team": "KC",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "P.Mahomes",
+    "role": "threw the pass"
+   },
+   {
+    "name": "X.Worthy",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 1782.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 2,
+  "clock": "02:28",
+  "score": "IND 13 - 16 KC"
+ },
+ {
+  "headline": "Chiefs defense holds steady on third down",
+  "what_happened": "The Indianapolis quarterback threw a short pass to J.Downs that gained seven yards, giving them a first down, but offsetting penalties kept the situation mostly the same.",
+  "who": "L.Sneed and C.Jones defended against D.Jones and J.Downs.",
+  "why_it_matters": "This play helped Indianapolis move closer to scoring, which increased their chances of winning by four percentage points. The Chiefs are still leading by four points, so they need to stay focused on their next defensive stop.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "D.Jones",
+    "role": "threw the pass"
+   },
+   {
+    "name": "J.Downs",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 1993.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 2,
+  "clock": "01:10",
+  "score": "IND 13 - 17 KC"
+ },
+ {
+  "headline": "A touchdown for the Colts",
+  "what_happened": "J.Taylor ran the ball 24 yards into the end zone for a touchdown, which is the way a team scores 6 points.",
+  "who": "J.Taylor made the play for the Colts.",
+  "why_it_matters": "This is bad news for the Chiefs as it puts them behind on the scoreboard. It increased the Colts' chances of winning by 9 percentage points.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "J.Taylor",
+    "role": "ran with the ball"
+   }
+  ],
+  "read_more": [],
+  "play_id": 2035.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": 147.0,
+  "video_end": 151.0,
+  "qtr": 2,
+  "clock": "01:04",
+  "score": "IND 19 - 17 KC"
+ },
+ {
+  "headline": "Chiefs get the first down",
+  "what_happened": "On a risky fourth down attempt, K.Tonga ran three yards up the middle to gain the distance needed for a new set of downs.",
+  "who": "K.Tonga carried the ball for the Chiefs.",
+  "why_it_matters": "This is great news for the Chiefs as they keep possession of the ball instead of giving it back. This play increased their chance of winning by 8 percentage points.",
+  "pop_culture": "",
+  "team": "KC",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "K.Tonga",
+    "role": "ran with the ball"
+   }
+  ],
+  "read_more": [],
+  "play_id": 2404.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 3,
+  "clock": "12:01",
+  "score": "IND 20 - 17 KC"
+ },
+ {
+  "headline": "A massive gain for the Chiefs",
+  "what_happened": "P.Mahomes threw a deep pass to T.Thornton, who caught it and ran all the way down to the one-yard line.",
+  "who": "P.Mahomes and T.Thornton are leading the offense.",
+  "why_it_matters": "This is great news for the Chiefs! By successfully getting a first down on this play, their chances of winning went up by 22 percentage points as they get ready to score.",
+  "pop_culture": "",
+  "team": "KC",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "P.Mahomes",
+    "role": "threw the pass"
+   },
+   {
+    "name": "T.Thornton",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 2489.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": 190.0,
+  "video_end": 197.0,
+  "qtr": 3,
+  "clock": "10:38",
+  "score": "IND 20 - 17 KC"
+ },
+ {
+  "headline": "Touchdown for the Chiefs!",
+  "what_happened": "On a risky fourth down—the final try to move the ball—P.Mahomes threw a short pass to J.Royals for a touchdown.",
+  "who": "P.Mahomes and J.Royals.",
+  "why_it_matters": "This is great news for the Chiefs as they have taken the lead! This play significantly boosted their chances of winning the game.",
+  "pop_culture": "",
+  "team": "KC",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "P.Mahomes",
+    "role": "threw the pass"
+   },
+   {
+    "name": "J.Royals",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 2584.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": 214.0,
+  "video_end": 220.0,
+  "qtr": 3,
+  "clock": "08:06",
+  "score": "IND 20 - 23 KC"
+ },
+ {
+  "headline": "A big gain for the Chiefs",
+  "what_happened": "P.Mahomes threw the ball to T.Kelce for a 16-yard gain, which gives the Chiefs a fresh set of four tries to move down the field.",
+  "who": "P.Mahomes passed to T.Kelce.",
+  "why_it_matters": "This successful play is great news for the Chiefs and boosts their chances of winning the game by 6 percentage points. Moving the ball like this keeps their drive alive and puts them in a better position to score.",
+  "pop_culture": "T.Kelce caught another pass and led the team with nine catches and 101 yards tonight.",
+  "team": "KC",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "P.Mahomes",
+    "role": "threw the pass"
+   },
+   {
+    "name": "T.Kelce",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [
+   {
+    "outlet": "ClutchPoints",
+    "title": "Taylor Swift lends song to NBC's Nikki Glaser SNF hype video",
+    "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-lends-song-to-nbc-nikki-glaser-snf-hype-video-colts"
+   }
+  ],
+  "play_id": 2884.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 3,
+  "clock": "04:40",
+  "score": "IND 20 - 24 KC"
+ },
+ {
+  "headline": "Chiefs stay in control",
+  "what_happened": "P.Mahomes passed the ball to R.Rice for a short 6-yard gain on third down.",
+  "who": "P.Mahomes threw the pass to R.Rice.",
+  "why_it_matters": "Since they didn't get enough yards for a first down, the Chiefs are still leading by 4 points. They will likely choose to kick a field goal now, which is a kick through the goalposts worth 3 points.",
+  "pop_culture": "",
+  "team": "KC",
+  "verdict": "neutral",
+  "players": [
+   {
+    "name": "P.Mahomes",
+    "role": "threw the pass"
+   },
+   {
+    "name": "R.Rice",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 3149.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 4,
+  "clock": "15:00",
+  "score": "IND 20 - 24 KC"
+ },
+ {
+  "headline": "Chiefs extend their lead with field goal",
+  "what_happened": "H.Butker successfully kicked a 28-yard field goal, which is worth 3 points, to put more points on the board for the Chiefs.",
+  "who": "H.Butker kicked the ball, supported by J.Winchester and M.Araiza.",
+  "why_it_matters": "This successful kick increases the Chiefs' lead to 7 points. It slightly boosts their chances of winning the game by 2 percentage points.",
+  "pop_culture": "",
+  "team": "KC",
+  "verdict": "neutral",
+  "players": [
+   {
+    "name": "H.Butker",
+    "role": "kicked the field goal"
+   }
+  ],
+  "read_more": [],
+  "play_id": 3179.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 4,
+  "clock": "14:18",
+  "score": "IND 20 - 27 KC"
+ },
+ {
+  "headline": "Chiefs defense stops the Colts",
+  "what_happened": "The Colts passed for five yards, but it was not enough to get a first down, which is a new set of four chances to move the ball.",
+  "who": "D.Jones passed to K.Allen, but K.Fulton made the stop for the Chiefs.",
+  "why_it_matters": "This is good news for the Chiefs as they continue to lead 27-20. By stopping the Colts on this play, the Chiefs slightly increased their chances of winning the game.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "neutral",
+  "players": [
+   {
+    "name": "D.Jones",
+    "role": "threw the pass"
+   },
+   {
+    "name": "K.Allen",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 3402.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 4,
+  "clock": "09:38",
+  "score": "IND 20 - 27 KC"
+ },
+ {
+  "headline": "A big move for the Colts",
+  "what_happened": "On their fourth and final try, D.Jones ran the ball forward to gain a first down, keeping the drive alive.",
+  "who": "D.Jones ran while G.Karlaftis and C.Jones defended for KC.",
+  "why_it_matters": "This was a good play for the Colts that increases their chances of winning by 8 percentage points. It keeps KC's lead at 7 points, but the Colts are now closer to the end zone.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "D.Jones",
+    "role": "ran with the ball"
+   }
+  ],
+  "read_more": [],
+  "play_id": 3427.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 4,
+  "clock": "09:07",
+  "score": "IND 20 - 27 KC"
+ },
+ {
+  "headline": "A First Down for Indianapolis",
+  "what_happened": "D.Jones threw a short pass to J.Downs, who gained six yards to earn a new set of four chances to move the ball.",
+  "who": "D.Jones threw the pass to J.Downs, while L.Sneed and N.Bolton defended for the Chiefs.",
+  "why_it_matters": "This is bad news for the Chiefs because it keeps the opposing team moving down the field. Indianapolis is now closer to scoring and their chances of winning have increased by 7 percentage points.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "D.Jones",
+    "role": "threw the pass"
+   },
+   {
+    "name": "J.Downs",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 3529.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 4,
+  "clock": "07:10",
+  "score": "IND 20 - 27 KC"
+ },
+ {
+  "headline": "Indianapolis scores a touchdown",
+  "what_happened": "J.Taylor ran the ball five yards into the end zone for a touchdown, which is worth six points.",
+  "who": "J.Taylor made the play for Indianapolis.",
+  "why_it_matters": "This is tough news for the Chiefs, as it cuts their lead down to just one point. The Colts have now increased their chances of winning the game by 6 percentage points.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "J.Taylor",
+    "role": "ran with the ball"
+   }
+  ],
+  "read_more": [],
+  "play_id": 3579.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": 235.0,
+  "video_end": 241.0,
+  "qtr": 4,
+  "clock": "05:41",
+  "score": "IND 26 - 27 KC"
+ },
+ {
+  "headline": "Chiefs play falls incomplete",
+  "what_happened": "P.Mahomes tried to pass to R.Rice, but the ball hit the ground instead of being caught.",
+  "who": "P.Mahomes threw the pass intended for R.Rice.",
+  "why_it_matters": "Since this was the third try, this incomplete pass means the Chiefs have to consider punting or taking a big risk on their final fourth try. This makes it harder for the Chiefs to win, dropping their chances by 6 percentage points.",
+  "pop_culture": "",
+  "team": "KC",
+  "verdict": "hurt",
+  "players": [
+   {
+    "name": "P.Mahomes",
+    "role": "threw the pass"
+   },
+   {
+    "name": "R.Rice",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 3745.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 4,
+  "clock": "03:28",
+  "score": "IND 27 - 27 KC"
+ },
+ {
+  "headline": "A big move for the Colts",
+  "what_happened": "D.Jones threw the ball to J.Downs for a 5-yard gain, which is enough for a first down.",
+  "who": "D.Jones passed to J.Downs while being tackled by N.Williams.",
+  "why_it_matters": "Since the Colts got a first down, they get a fresh set of four tries to move down the field. This increases their chances of winning by 9 percentage points while the game remains tied.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "D.Jones",
+    "role": "threw the pass"
+   },
+   {
+    "name": "J.Downs",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 3868.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 4,
+  "clock": "02:00",
+  "score": "IND 27 - 27 KC"
+ },
+ {
+  "headline": "Chiefs defense stops the Colts",
+  "what_happened": "D.Jones threw a pass that fell incomplete, meaning the Colts failed to gain any yards on this third down try.",
+  "who": "D.Jones and F.Anudike-Uzomah were the key players.",
+  "why_it_matters": "This is good news for the Chiefs because it makes it much harder for the Colts to score, decreasing their chances of winning by 8 percentage points.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "hurt",
+  "players": [
+   {
+    "name": "D.Jones",
+    "role": "threw the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 3945.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 4,
+  "clock": "00:40",
+  "score": "IND 27 - 27 KC"
+ },
+ {
+  "headline": "A quick kick from the Colts",
+  "what_happened": "The Colts decided to punt, which means they kicked the ball away to give KC possession instead of trying for a fourth down play.",
+  "who": "R.Sanchez kicked the ball and N.Remigio caught it for KC.",
+  "why_it_matters": "This is great news for our Chiefs! Since the Colts chose to punt instead of going for it on fourth down, their chances of winning dropped significantly, keeping the game tied.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "hurt",
+  "players": [],
+  "read_more": [],
+  "play_id": 3975.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 4,
+  "clock": "00:34",
+  "score": "IND 27 - 27 KC"
+ },
+ {
+  "headline": "A big first down for Kansas City",
+  "what_happened": "K.Walker ran the ball forward to gain five yards, which gives the Chiefs a fresh set of four tries to move the ball.",
+  "who": "The play featured K.Walker running and C.Bynum defending.",
+  "why_it_matters": "This keeps the drive alive with very little time remaining. Even though the win chance dropped slightly, getting this first down is vital for trying to score before the clock runs out.",
+  "pop_culture": "",
+  "team": "KC",
+  "verdict": "neutral",
+  "players": [
+   {
+    "name": "K.Walker",
+    "role": "ran with the ball"
+   }
+  ],
+  "read_more": [],
+  "play_id": 4046.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 4,
+  "clock": "00:16",
+  "score": "IND 27 - 27 KC"
+ },
+ {
+  "headline": "Chiefs gain big yards in final seconds",
+  "what_happened": "P.Mahomes completed a pass to R.Rice for 31 yards, moving the ball closer to the end zone.",
+  "who": "P.Mahomes threw to R.Rice.",
+  "why_it_matters": "This play moves the Chiefs closer to scoring, but the game is still tied. Because the team was aiming for a win in the closing seconds, this outcome unfortunately dropped their overall win chance by 11 percent.",
+  "pop_culture": "",
+  "team": "KC",
+  "verdict": "hurt",
+  "players": [
+   {
+    "name": "P.Mahomes",
+    "role": "threw the pass"
+   },
+   {
+    "name": "R.Rice",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 4107.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 4,
+  "clock": "00:03",
+  "score": "IND 27 - 27 KC"
+ },
+ {
+  "headline": "A massive gain for the Chiefs",
+  "what_happened": "P.Mahomes completed a long pass to T.Thornton for 30 yards to move the offense down the field.",
+  "who": "P.Mahomes threw the ball to T.Thornton.",
+  "why_it_matters": "This was a huge play because it kept the drive alive and boosted the Chiefs' chances of winning by 24 percent. It is great news for Kansas City as they push for a score in overtime.",
+  "pop_culture": "",
+  "team": "KC",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "P.Mahomes",
+    "role": "threw the pass"
+   },
+   {
+    "name": "T.Thornton",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 4241.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 5,
+  "clock": "08:38",
+  "score": "IND 27 - 27 KC"
+ },
+ {
+  "headline": "Chiefs play falls incomplete",
+  "what_happened": "P.Mahomes tried to pass the ball to K.Walker, but it hit the ground instead of being caught.",
+  "who": "P.Mahomes and K.Walker are the key players.",
+  "why_it_matters": "Since they did not catch the ball, the Chiefs now face a difficult situation to keep their drive going. This missed play slightly lowered their chances of winning the game.",
+  "pop_culture": "",
+  "team": "KC",
+  "verdict": "hurt",
+  "players": [
+   {
+    "name": "P.Mahomes",
+    "role": "threw the pass"
+   },
+   {
+    "name": "K.Walker",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 4432.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 5,
+  "clock": "05:18",
+  "score": "IND 27 - 27 KC"
+ },
+ {
+  "headline": "Chiefs win with a field goal",
+  "what_happened": "H.Butker successfully kicked a 31-yard field goal, which is a kick through the goalposts for three points.",
+  "who": "H.Butker kicked it, while J.Winchester and M.Araiza assisted.",
+  "why_it_matters": "This successful kick gives the Chiefs a 3-point lead and increases their chances of winning the game by 2 percentage points. Since the game was previously tied, this is great news for your boyfriend's team.",
+  "pop_culture": "",
+  "team": "KC",
+  "verdict": "neutral",
+  "players": [
+   {
+    "name": "H.Butker",
+    "role": "kicked the field goal"
+   }
+  ],
+  "read_more": [],
+  "play_id": 4455.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 5,
+  "clock": "05:13",
+  "score": "IND 27 - 30 KC"
+ },
+ {
+  "headline": "A big play for Indianapolis",
+  "what_happened": "D.Jones threw a long pass to L.Treadwell that moved Indianapolis 48 yards down the field, getting them much closer to the goal line.",
+  "who": "D.Jones threw to L.Treadwell while defended by L.Sneed.",
+  "why_it_matters": "This was tough news for Kansas City, as the successful catch significantly increased Indianapolis's chances of scoring and winning the game. Kansas City still leads by 3, but the pressure is definitely on our defense right now.",
+  "pop_culture": "After the officials reversed a fumble call that would have won the game for the Chiefs, the stadium booed and cameras showed Taylor Swift looking frustrated.",
+  "team": "IND",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "D.Jones",
+    "role": "threw the pass"
+   },
+   {
+    "name": "L.Treadwell",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [
+   {
+    "outlet": "ClutchPoints",
+    "title": "Taylor Swift's 3-word message after Travis Kelce's first TD",
+    "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-3-word-message-travis-kelce-1st-td"
+   }
+  ],
+  "play_id": 4505.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": 315.0,
+  "video_end": 330.0,
+  "qtr": 5,
+  "clock": "05:04",
+  "score": "IND 27 - 30 KC"
+ },
+ {
+  "headline": "A great stop for the Chiefs",
+  "what_happened": "The Colts tried to run the ball on the first down, but the Chiefs' defense tackled the runner behind the line of scrimmage for a one-yard loss.",
+  "who": "D.Tranquill made the tackle on J.Taylor.",
+  "why_it_matters": "This is excellent news for the Chiefs because it pushes the Colts further back, making it harder for them to score. The Colts' chance of winning dropped by 12 percentage points after this play.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "hurt",
+  "players": [
+   {
+    "name": "J.Taylor",
+    "role": "ran with the ball"
+   }
+  ],
+  "read_more": [],
+  "play_id": 4596.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 5,
+  "clock": "04:50",
+  "score": "IND 27 - 30 KC"
+ },
+ {
+  "headline": "Big defensive stop for the Chiefs",
+  "what_happened": "The Indianapolis running back tried to run the ball forward but was tackled behind the starting point, losing two yards.",
+  "who": "J.Taylor was tackled by N.Bolton.",
+  "why_it_matters": "This is great news for the Chiefs because it pushes the other team backward and makes it harder for them to score. It significantly lowers their chance of winning the game.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "hurt",
+  "players": [
+   {
+    "name": "J.Taylor",
+    "role": "ran with the ball"
+   }
+  ],
+  "read_more": [],
+  "play_id": 4618.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 5,
+  "clock": "04:05",
+  "score": "IND 27 - 30 KC"
+ },
+ {
+  "headline": "Chiefs stop the Colts",
+  "what_happened": "D.Jones ran with the ball on third down, which is the third of four chances to move forward, but J.Hicks stopped him after a short gain.",
+  "who": "D.Jones ran while J.Hicks made the tackle for the Chiefs.",
+  "why_it_matters": "This is great news for your boyfriend's team! The Colts are now further from scoring, which drops their chances of winning by 7 percentage points.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "hurt",
+  "players": [
+   {
+    "name": "D.Jones",
+    "role": "ran with the ball"
+   }
+  ],
+  "read_more": [],
+  "play_id": 4640.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 5,
+  "clock": "03:22",
+  "score": "IND 27 - 30 KC"
+ },
+ {
+  "headline": "Game is tied after field goal",
+  "what_happened": "The Colts kicked a field goal, which is a three-point kick through the goalposts, to bring the score to 30-30.",
+  "who": "S.Shrader kicked the field goal for the Colts.",
+  "why_it_matters": "This is bad news for the Chiefs because the score is now tied, which increases the Colts' chances of winning the game.",
+  "pop_culture": "",
+  "team": "IND",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "S.Shrader",
+    "role": "kicked the field goal"
+   }
+  ],
+  "read_more": [],
+  "play_id": 4698.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": null,
+  "video_end": null,
+  "qtr": 5,
+  "clock": "03:15",
+  "score": "IND 30 - 30 KC"
+ },
+ {
+  "headline": "A big gain for the Chiefs",
+  "what_happened": "P.Mahomes completed a pass to K.Walker for 22 yards, securing a first down for the team.",
+  "who": "P.Mahomes threw the ball to K.Walker.",
+  "why_it_matters": "This successful play is great news for the Chiefs and boosts their chance of winning the game by 24 percentage points. They now have a fresh set of four downs to keep moving toward the goal.",
+  "pop_culture": "",
+  "team": "KC",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "P.Mahomes",
+    "role": "threw the pass"
+   },
+   {
+    "name": "K.Walker",
+    "role": "caught the pass"
+   }
+  ],
+  "read_more": [],
+  "play_id": 4843.0,
+  "language": "English",
+  "source": "gemini (cached)",
+  "checks_failed": [],
+  "video_start": 564.0,
+  "video_end": 575.0,
+  "qtr": 5,
+  "clock": "01:30",
+  "score": "IND 30 - 30 KC"
+ },
+ {
+  "headline": "The Chiefs win the game",
+  "what_happened": "H.Butker successfully kicked a field goal, which is a kick through the goalposts worth 3 points, to end the game.",
+  "who": "H.Butker kicked the ball, supported by J.Winchester and M.Araiza.",
+  "why_it_matters": "This successful kick is great news for the Chiefs as it gave them the points they needed to win the game. It increased their win chance by 8 percentage points to secure the victory.",
+  "pop_culture": "Before the game started, NBC used Taylor Swift’s song ...Ready for It? in their hype video.",
+  "team": "KC",
+  "verdict": "helped",
+  "players": [
+   {
+    "name": "H.Butker",
+    "role": "kicked the field goal"
+   }
+  ],
+  "read_more": [
+   {
+    "outlet": "Fox19 (Gray News)",
+    "title": "'That's my husband!' Taylor Swift takes on full WAG status during SNF",
+    "url": "https://www.fox19.com/2026/09/21/thats-my-husband-taylor-swift-takes-full-wag-status-during-snf/"
+   },
+   {
+    "outlet": "ClutchPoints",
+    "title": "Taylor Swift lends song to NBC's Nikki Glaser SNF hype video",
+    "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-lends-song-to-nbc-nikki-glaser-snf-hype-video-colts"
+   }
+  ],
+  "play_id": 4908.0,
+  "language": "English",
+  "source": "gemini",
+  "checks_failed": [],
+  "video_start": 609.0,
+  "video_end": 612.0,
+  "qtr": 5,
+  "clock": "00:01",
+  "score": "IND 30 - 33 KC"
+ }
+]

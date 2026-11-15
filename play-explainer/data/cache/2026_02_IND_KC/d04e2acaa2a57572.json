@@ -1,0 +1,24 @@
+{
+ "headline": "Chiefs play falls incomplete",
+ "what_happened": "P.Mahomes tried to pass to R.Rice, but the ball hit the ground instead of being caught.",
+ "who": "P.Mahomes threw the pass intended for R.Rice.",
+ "why_it_matters": "Since this was the third try, this incomplete pass means the Chiefs have to consider punting or taking a big risk on their final fourth try. This makes it harder for the Chiefs to win, dropping their chances by 6 percentage points.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "R.Rice",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3745.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

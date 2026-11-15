@@ -1,0 +1,20 @@
+{
+ "headline": "Chiefs kick a field goal",
+ "what_happened": "H.Butker successfully kicked the ball through the yellow goalposts for three points, which is called a field goal.",
+ "who": "H.Butker, J.Winchester, and M.Araiza executed the kick.",
+ "why_it_matters": "This is good news for the Chiefs as it adds points to the board. It increased their chances of winning the game by 2 percentage points.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "H.Butker",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [],
+ "play_id": 531.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

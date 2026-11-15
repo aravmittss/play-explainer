@@ -1,0 +1,24 @@
+{
+ "headline": "Chiefs defense faces a tough challenge",
+ "what_happened": "D.Jones threw a short pass to J.Downs, who caught it and ran for six yards to get a first down, which is a new set of four tries for the offense.",
+ "who": "D.Jones, J.Downs, L.Sneed, and N.Bolton were involved in the play.",
+ "why_it_matters": "This is bad news for the Chiefs because it gives the other team more chances to score, and it increased their chances of winning the game by 7 percentage points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "J.Downs",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3529.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

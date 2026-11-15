@@ -1,0 +1,24 @@
+{
+ "headline": "A big gain for the Chiefs",
+ "what_happened": "P.Mahomes completed a pass to K.Walker for 22 yards, securing a first down for the team.",
+ "who": "P.Mahomes threw the ball to K.Walker.",
+ "why_it_matters": "This successful play is great news for the Chiefs and boosts their chance of winning the game by 24 percentage points. They now have a fresh set of four downs to keep moving toward the goal.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "K.Walker",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4843.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

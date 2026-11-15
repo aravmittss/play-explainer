@@ -1,0 +1,31 @@
+{
+ "headline": "The Chiefs win in overtime!",
+ "what_happened": "H.Butker kicked a 40-yard field goal, which is worth 3 points, as time expired.",
+ "who": "H.Butker, J.Winchester, and M.Araiza.",
+ "why_it_matters": "This good news secures the win for the Chiefs and boosts their chances of winning by 8 percentage points. The game is now over with a final score of 33 to 30.",
+ "pop_culture": "The Chiefs are now 2-0 after a game-winning kick that followed a pre-game hype video featuring Taylor Swift's song '...Ready for It?'.",
+ "team": "KC",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "H.Butker",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [
+  {
+   "outlet": "Fox19 (Gray News)",
+   "title": "'That's my husband!' Taylor Swift takes on full WAG status during SNF",
+   "url": "https://www.fox19.com/2026/09/21/thats-my-husband-taylor-swift-takes-full-wag-status-during-snf/"
+  },
+  {
+   "outlet": "ClutchPoints",
+   "title": "Taylor Swift lends song to NBC's Nikki Glaser SNF hype video",
+   "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-lends-song-to-nbc-nikki-glaser-snf-hype-video-colts"
+  }
+ ],
+ "play_id": 4908.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

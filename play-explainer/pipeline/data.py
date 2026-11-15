@@ -5,9 +5,6 @@ Code style: no f-strings, lists instead of tuples.
 import json
 import os
 
-import nflreadpy as nfl
-import polars as pl
-
 # Columns we keep from nflverse's ~370. Everything the explainer needs, nothing else.
 KEEP = [
     "play_id", "game_id", "home_team", "away_team", "posteam", "defteam",
@@ -35,6 +32,9 @@ def load_game(game_id, season=None):
 
     if season is None:
         season = int(game_id.split("_")[0])
+    # Loaded only when a game has to be downloaded; a saved game in data/ needs neither library.
+    import nflreadpy as nfl
+    import polars as pl
     pbp = nfl.load_pbp([season])
     game = (
         pbp.filter(pl.col("game_id") == game_id)

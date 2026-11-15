@@ -1,0 +1,24 @@
+{
+ "headline": "Touchdown for Kansas City!",
+ "what_happened": "On fourth down, which is a gamble to keep the ball, P.Mahomes threw a short pass to J.Royals for a touchdown.",
+ "who": "P.Mahomes and J.Royals.",
+ "why_it_matters": "This is great news for the Chiefs as they take the lead! It increased their chances of winning by 11 percentage points.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "J.Royals",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 2584.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

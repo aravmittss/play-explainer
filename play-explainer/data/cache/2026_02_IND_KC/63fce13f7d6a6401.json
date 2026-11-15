@@ -1,0 +1,20 @@
+{
+ "headline": "A big first down for Kansas City",
+ "what_happened": "K.Walker ran the ball forward 5 yards, which gives the Chiefs a new set of four tries called a first down.",
+ "who": "K.Walker carried the ball while being stopped by C.Bynum.",
+ "why_it_matters": "This keeps the Chiefs' drive alive as they look to break the tie, though their overall chance to win dipped slightly by 1 percentage point on this play.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "neutral",
+ "players": [
+  {
+   "name": "K.Walker",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4046.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

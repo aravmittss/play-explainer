@@ -1,0 +1,20 @@
+{
+ "headline": "Chiefs defense stops the Colts",
+ "what_happened": "J.Taylor tried to run the ball for the Colts, but N.Bolton tackled him behind the line of scrimmage for a loss of two yards.",
+ "who": "J.Taylor and N.Bolton",
+ "why_it_matters": "This is great news for the Chiefs! By pushing them back, the defense makes it much harder for the Colts to score, dropping their chances of winning the game significantly.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "J.Taylor",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4618.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

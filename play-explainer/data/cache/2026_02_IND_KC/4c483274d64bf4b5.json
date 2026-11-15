@@ -1,0 +1,24 @@
+{
+ "headline": "Indianapolis scores a touchdown",
+ "what_happened": "D.Jones threw a short pass to T.Warren for a one-yard touchdown, which is six points.",
+ "who": "D.Jones and T.Warren for Indianapolis.",
+ "why_it_matters": "This is tough news for the Chiefs as Indianapolis now leads 6-0, increasing their chances of winning by one percent.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "neutral",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "T.Warren",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 340.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

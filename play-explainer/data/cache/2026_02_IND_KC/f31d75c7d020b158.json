@@ -1,0 +1,24 @@
+{
+ "headline": "Chiefs gain big yards in final seconds",
+ "what_happened": "P.Mahomes completed a pass to R.Rice for 31 yards, moving the ball closer to the end zone.",
+ "who": "P.Mahomes threw to R.Rice.",
+ "why_it_matters": "This play moves the Chiefs closer to scoring, but the game is still tied. Because the team was aiming for a win in the closing seconds, this outcome unfortunately dropped their overall win chance by 11 percent.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "R.Rice",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4107.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

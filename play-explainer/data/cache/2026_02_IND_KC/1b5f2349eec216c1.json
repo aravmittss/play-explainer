@@ -1,0 +1,20 @@
+{
+ "headline": "Colts make a field goal",
+ "what_happened": "The Colts kicked the ball through the yellow goalposts for three points, which is called a field goal.",
+ "who": "S.Shrader kicked the ball for the Colts.",
+ "why_it_matters": "This is bad news for the Chiefs because it increases the Colts' lead and boosts their chances of winning by 8 percentage points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "S.Shrader",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [],
+ "play_id": 1397.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

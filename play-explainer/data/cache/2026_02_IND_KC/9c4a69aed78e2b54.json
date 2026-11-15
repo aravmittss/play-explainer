@@ -1,0 +1,35 @@
+{
+ "headline": "Touchdown for the Chiefs!",
+ "what_happened": "P.Mahomes threw a 13-yard pass to T.Kelce, resulting in a touchdown, which is worth 6 points.",
+ "who": "P.Mahomes connected with T.Kelce for the score.",
+ "why_it_matters": "This is great news for our Chiefs, as it increases our win probability by 6 percentage points.",
+ "pop_culture": "After Travis Kelce scored, Taylor Swift pointed to her wedding ring and shouted that he is her husband.",
+ "team": "KC",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "T.Kelce",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [
+  {
+   "outlet": "ClutchPoints",
+   "title": "Taylor Swift's 3-word message after Travis Kelce's first TD",
+   "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-3-word-message-travis-kelce-1st-td"
+  },
+  {
+   "outlet": "KCTV5",
+   "title": "'That's my husband!' Taylor Swift takes on full WAG status during SNF",
+   "url": "https://www.kctv5.com/2026/09/21/thats-my-husband-taylor-swift-takes-full-wag-status-during-snf/"
+  }
+ ],
+ "play_id": 663.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

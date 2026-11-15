@@ -1,0 +1,20 @@
+{
+ "headline": "The game is now tied",
+ "what_happened": "S.Shrader kicked a 42-yard field goal, which is a kick through the goalposts for three points.",
+ "who": "S.Shrader, L.Rhodes, and R.Sanchez completed the kick for Indianapolis.",
+ "why_it_matters": "This is tough news for the Chiefs since the score is now tied, which increased Indianapolis's chances of winning by 4 percentage points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "S.Shrader",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [],
+ "play_id": 1004.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

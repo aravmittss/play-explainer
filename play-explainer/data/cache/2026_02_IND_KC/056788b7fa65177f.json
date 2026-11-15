@@ -1,0 +1,24 @@
+{
+ "headline": "Touchdown for the Chiefs!",
+ "what_happened": "P.Mahomes threw a short pass to X.Worthy, who caught it in the end zone for a touchdown, which is worth 6 points.",
+ "who": "P.Mahomes and X.Worthy executed the play for Kansas City.",
+ "why_it_matters": "This is great news for your boyfriend's team! It puts the Chiefs in the lead and increases their chance of winning by 4 percentage points.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "X.Worthy",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 1782.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

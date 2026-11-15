@@ -1,0 +1,24 @@
+{
+ "headline": "Chiefs defense holds steady on third down",
+ "what_happened": "The Indianapolis offense passed the ball for a 7-yard gain, but offsetting penalties wiped out the yardage and kept the down count the same.",
+ "who": "D.Jones, J.Downs, L.Sneed, and C.Jones.",
+ "why_it_matters": "This was good news for the Colts as they moved closer to the end zone, and the Chiefs' chances of winning dropped by 4 percentage points. The Colts still have a chance to move the ball, but KC is still leading this game by 4 points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "J.Downs",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 1993.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

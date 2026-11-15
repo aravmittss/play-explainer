@@ -1,0 +1,24 @@
+{
+ "headline": "A big gain for the Colts",
+ "what_happened": "D.Jones threw a short pass to J.Downs, and because of a penalty on J.Hicks for roughing the passer, the Colts earned a fresh set of downs closer to the goal.",
+ "who": "D.Jones, J.Downs, L.Sneed, and J.Hicks were involved in this play.",
+ "why_it_matters": "This is bad news for the Chiefs because it gives the Colts a much better chance to score. The Colts increased their win probability by 7 percentage points after this successful drive.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "J.Downs",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 282.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

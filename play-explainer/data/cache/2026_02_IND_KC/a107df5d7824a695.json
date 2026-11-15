@@ -1,0 +1,30 @@
+{
+ "headline": "A big catch for the Chiefs!",
+ "what_happened": "P.Mahomes threw a short pass to T.Kelce, who caught the ball and ran 16 yards for a first down.",
+ "who": "P.Mahomes threw to T.Kelce.",
+ "why_it_matters": "This is great news for the Chiefs because gaining those yards keeps their turn with the ball going. This play increased their chance of winning by 6 percentage points.",
+ "pop_culture": "T.Kelce is having an incredible game with his ninth catch of the night.",
+ "team": "KC",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "T.Kelce",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [
+  {
+   "outlet": "ClutchPoints",
+   "title": "Taylor Swift lends song to NBC's Nikki Glaser SNF hype video",
+   "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-lends-song-to-nbc-nikki-glaser-snf-hype-video-colts"
+  }
+ ],
+ "play_id": 2884.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

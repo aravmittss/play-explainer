@@ -1,0 +1,20 @@
+{
+ "headline": "Game is tied after field goal",
+ "what_happened": "The Colts kicked a field goal, which is a three-point kick through the goalposts, to bring the score to 30-30.",
+ "who": "S.Shrader kicked the field goal for the Colts.",
+ "why_it_matters": "This is bad news for the Chiefs because the score is now tied, which increases the Colts' chances of winning the game.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "S.Shrader",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4698.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

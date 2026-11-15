@@ -12,6 +12,7 @@ pip install nflreadpy polars
 
 ```bash
 python run.py                        # NFC Championship (Rams at Seahawks), one moment every 2 seconds
+python run.py --game 2026_02_IND_KC  # our demo game: Colts at Chiefs, Week 2 of 2026
 python run.py --fixed 1              # faster
 python run.py --speed 60             # follow the real game clock, 60x faster
 python run.py --game 2025_16_LA_SEA  # any other game
@@ -39,7 +40,29 @@ The first run downloads the season (about a minute). After that the game is cach
 | `2025_04_GB_DAL` | Packers at Cowboys, week 4 (tie) | 40-40 |
 | `2025_20_BUF_DEN` | Divisional round, Bills at Broncos | DEN 33, BUF 30 |
 
-## Step 4: the explainer and video
+## Step 4: the explainer (Priya)
+
+Demo game: **Colts at Chiefs, Week 2 of 2026** (`2026_02_IND_KC`, Chiefs win 33-30 in overtime). It matches our Kelce touchdown clip.
+
+What's new in step 4:
+- **Swiftie persona** (`swiftie`) and a `make_profile()` that layers the language dropdown and the viewer's chat messages on top of a preset.
+- **Pop culture from sourced notes only:** `data/2026_02_IND_KC_context.json` holds team-written notes per play, each with its news source. The AI can reword a note but not add one. The sources come back as `read_more` links.
+- **More checks:** every number must appear in the play data or the note, and unknown player names still fail. Failing answers fall back to the template.
+- **Players and roles** come from the data (`players`), so they're always right.
+- **Saved answers** in `data/cache/`, so the demo never waits on the AI.
+- **Tests:** `python -m unittest discover tests` (no key needed).
+- **Handoff for Chris:** `HANDOFF_CHRIS.md`.
+
+```bash
+pip install google-genai
+export GEMINI_API_KEY=...                                     # never commit it
+python explain_game.py --provider gemini --limit 3            # quick test: first 3 moments, Swiftie persona
+python explain_game.py --provider gemini                      # whole game
+python explain_game.py --provider gemini --persona new_fan --note "she loves Taylor Swift" --note "explain penalties"
+python demo_all_personas.py --provider gemini                 # every persona; fills the cache for Demo Day
+```
+
+## Step 4 (original notes): the explainer and video
 
 ```bash
 pip install anthropic                     # or openai

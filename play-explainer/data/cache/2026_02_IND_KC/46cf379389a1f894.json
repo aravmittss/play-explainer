@@ -1,0 +1,20 @@
+{
+ "headline": "Big defensive stop for the Chiefs",
+ "what_happened": "The Indianapolis running back tried to run the ball forward but was tackled behind the starting point, losing two yards.",
+ "who": "J.Taylor was tackled by N.Bolton.",
+ "why_it_matters": "This is great news for the Chiefs because it pushes the other team backward and makes it harder for them to score. It significantly lowers their chance of winning the game.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "J.Taylor",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4618.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "A big first down for the Colts",
+ "what_happened": "The Indianapolis quarterback threw a short pass to J.Downs, who gained enough yards for a first down to keep their drive alive.",
+ "who": "D.Jones threw the ball to J.Downs while being defended by N.Williams.",
+ "why_it_matters": "This was bad news for the Chiefs because it gives the Colts a fresh set of four tries to move down the field, increasing their chances of winning by 9 percent.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "J.Downs",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3868.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

@@ -1,0 +1,30 @@
+{
+ "headline": "A big play for Indianapolis",
+ "what_happened": "D.Jones threw a long pass to L.Treadwell that moved Indianapolis 48 yards down the field.",
+ "who": "D.Jones, L.Treadwell, and L.Sneed.",
+ "why_it_matters": "This is tough news for the Chiefs as it helps Indianapolis get much closer to scoring. It significantly increases the chances of Indianapolis winning this game.",
+ "pop_culture": "The referees reversed a call that would have ended the game, and Taylor Swift was spotted looking frustrated in her suite.",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "L.Treadwell",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [
+  {
+   "outlet": "ClutchPoints",
+   "title": "Taylor Swift's 3-word message after Travis Kelce's first TD",
+   "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-3-word-message-travis-kelce-1st-td"
+  }
+ ],
+ "play_id": 4505.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

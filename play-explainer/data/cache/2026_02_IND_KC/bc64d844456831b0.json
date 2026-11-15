@@ -1,0 +1,20 @@
+{
+ "headline": "Indianapolis scores a touchdown",
+ "what_happened": "J.Taylor ran the ball five yards into the end zone for a touchdown, which is worth six points.",
+ "who": "J.Taylor made the play for Indianapolis.",
+ "why_it_matters": "This is tough news for the Chiefs, as it cuts their lead down to just one point. The Colts have now increased their chances of winning the game by 6 percentage points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "J.Taylor",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3579.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

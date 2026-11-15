@@ -1,0 +1,20 @@
+{
+ "headline": "Chiefs defense stops the Colts",
+ "what_happened": "The Colts quarterback D.Jones tried to run for extra yards, but J.Hicks and the Chiefs defense stopped him after a short 5-yard gain.",
+ "who": "D.Jones carried the ball while J.Hicks made the tackle for the Chiefs.",
+ "why_it_matters": "This is great news for our Chiefs! Because it is now 4th down, the Colts are much less likely to score, which helps secure our lead.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4640.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

@@ -1,0 +1,24 @@
+{
+ "headline": "Chiefs defense stops the Colts",
+ "what_happened": "The Colts passed for five yards, but it was not enough to get a first down, which is a new set of four chances to move the ball.",
+ "who": "D.Jones passed to K.Allen, but K.Fulton made the stop for the Chiefs.",
+ "why_it_matters": "This is good news for the Chiefs as they continue to lead 27-20. By stopping the Colts on this play, the Chiefs slightly increased their chances of winning the game.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "neutral",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "K.Allen",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3402.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

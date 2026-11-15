@@ -1,0 +1,20 @@
+{
+ "headline": "Chiefs defense stops the Colts",
+ "what_happened": "D.Jones threw a pass that fell incomplete, meaning the Colts failed to gain any yards on this third down try.",
+ "who": "D.Jones and F.Anudike-Uzomah were the key players.",
+ "why_it_matters": "This is good news for the Chiefs because it makes it much harder for the Colts to score, decreasing their chances of winning by 8 percentage points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3945.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

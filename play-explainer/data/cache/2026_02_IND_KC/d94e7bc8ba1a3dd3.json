@@ -1,0 +1,20 @@
+{
+ "headline": "Colts take the lead with a kick",
+ "what_happened": "The Indianapolis Colts kicked a 42-yard field goal, which is worth three points, after failing to get a touchdown.",
+ "who": "Kicker S.Shrader scored the points.",
+ "why_it_matters": "This is bad news for the Chiefs as it gives the Colts a three-point lead. The Colts' chance of winning went up by 4 percentage points after this successful kick.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "S.Shrader",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [],
+ "play_id": 1004.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

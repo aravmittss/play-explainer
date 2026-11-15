@@ -1,0 +1,24 @@
+{
+ "headline": "Big catch moves the chains",
+ "what_happened": "D.Jones passes to J.Downs for an 11-yard gain, plus a penalty adds 2 more yards.",
+ "who": "D.Jones and J.Downs",
+ "why_it_matters": "They got a first down, which gives them a fresh set of four tries and boosts their winning chances by 7 percentage points. Like getting a VIP backstage pass, they are moving closer to the end zone!",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "J.Downs",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 282.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

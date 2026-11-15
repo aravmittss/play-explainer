@@ -1,0 +1,81 @@
+{
+ "game": "2026_02_IND_KC",
+ "about": "Pop-culture notes for the demo game, Colts at Chiefs, Sunday Night Football, Sept 20, 2026. Every note here was written by the team from a published news source, listed with it. The explainer may only use a note on the play it belongs to, and never adds facts of its own.",
+ "plays": {
+  "109": {
+   "note": "Taylor Swift is watching from the family suite at Arrowhead. The vintage Chiefs tank top she wore sold out on the team's online store right after the game.",
+   "sources": [
+    {
+     "outlet": "Larry Brown Sports (citing Front Office Sports)",
+     "title": "Taylor Swift appears to set off massive Chiefs merchandise onslaught",
+     "url": "https://larrybrownsports.com/football/taylor-swift-appears-massive-chiefs-merchandise-onslaught/771220"
+    },
+    {
+     "outlet": "KCTV5",
+     "title": "'That's my husband!' Taylor Swift takes on full WAG status during SNF",
+     "url": "https://www.kctv5.com/2026/09/21/thats-my-husband-taylor-swift-takes-full-wag-status-during-snf/"
+    }
+   ]
+  },
+  "614": {
+   "note": "This interception set up a touchdown by Travis Kelce, Taylor Swift's husband (not the viewer's boyfriend), on the Chiefs' very next drive.",
+   "sources": [
+    {
+     "outlet": "ClutchPoints",
+     "title": "Taylor Swift's 3-word message after Travis Kelce's first TD",
+     "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-3-word-message-travis-kelce-1st-td"
+    }
+   ]
+  },
+  "663": {
+   "note": "Travis Kelce's first touchdown of the season. Up in the suite, Taylor Swift pointed to her wedding ring and shouted \"That's my husband!\" The two married at Madison Square Garden on July 3.",
+   "sources": [
+    {
+     "outlet": "ClutchPoints",
+     "title": "Taylor Swift's 3-word message after Travis Kelce's first TD",
+     "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-3-word-message-travis-kelce-1st-td"
+    },
+    {
+     "outlet": "KCTV5",
+     "title": "'That's my husband!' Taylor Swift takes on full WAG status during SNF",
+     "url": "https://www.kctv5.com/2026/09/21/thats-my-husband-taylor-swift-takes-full-wag-status-during-snf/"
+    }
+   ]
+  },
+  "2884": {
+   "note": "Another Kelce catch. He led the Chiefs with 9 catches and 101 yards tonight.",
+   "sources": [
+    {
+     "outlet": "ClutchPoints",
+     "title": "Taylor Swift lends song to NBC's Nikki Glaser SNF hype video",
+     "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-lends-song-to-nbc-nikki-glaser-snf-hype-video-colts"
+    }
+   ]
+  },
+  "4505": {
+   "note": "For a moment it looked like the Chiefs had recovered a fumble and won the game, but the referees overturned it. Arrowhead booed, and the suite cameras caught Taylor's frustration.",
+   "sources": [
+    {
+     "outlet": "ClutchPoints",
+     "title": "Taylor Swift's 3-word message after Travis Kelce's first TD",
+     "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-3-word-message-travis-kelce-1st-td"
+    }
+   ]
+  },
+  "4908": {
+   "note": "This kick won the game as time expired, and the Chiefs are now 2-0. Separately, before kickoff, NBC's hype video for this game, narrated by comedian Nikki Glaser, used Taylor's song \"...Ready for It?\". The video is not related to the kick.",
+   "sources": [
+    {
+     "outlet": "Fox19 (Gray News)",
+     "title": "'That's my husband!' Taylor Swift takes on full WAG status during SNF",
+     "url": "https://www.fox19.com/2026/09/21/thats-my-husband-taylor-swift-takes-full-wag-status-during-snf/"
+    },
+    {
+     "outlet": "ClutchPoints",
+     "title": "Taylor Swift lends song to NBC's Nikki Glaser SNF hype video",
+     "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-lends-song-to-nbc-nikki-glaser-snf-hype-video-colts"
+    }
+   ]
+  }
+ }
+}

@@ -1,0 +1,20 @@
+{
+ "headline": "A big move for the Colts",
+ "what_happened": "On their fourth and final try, D.Jones ran the ball forward to gain a first down, keeping the drive alive.",
+ "who": "D.Jones ran while G.Karlaftis and C.Jones defended for KC.",
+ "why_it_matters": "This was a good play for the Colts that increases their chances of winning by 8 percentage points. It keeps KC's lead at 7 points, but the Colts are now closer to the end zone.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "ran with the ball"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3427.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

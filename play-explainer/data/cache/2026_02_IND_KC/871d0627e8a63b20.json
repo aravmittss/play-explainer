@@ -1,0 +1,24 @@
+{
+ "headline": "A quick pass gains big yards",
+ "what_happened": "P.Mahomes completed a pass to R.Rice for 31 yards, moving the ball deep into the opponent's territory with only seconds left.",
+ "who": "P.Mahomes threw the ball to R.Rice.",
+ "why_it_matters": "Even though they gained a lot of ground, this play actually lowered their chances of winning by 11 percentage points because of the remaining time. The game remains tied at 27-27.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "hurt",
+ "players": [
+  {
+   "name": "P.Mahomes",
+   "role": "threw the pass"
+  },
+  {
+   "name": "R.Rice",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4107.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

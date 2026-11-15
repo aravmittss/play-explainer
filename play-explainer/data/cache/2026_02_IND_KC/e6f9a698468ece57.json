@@ -1,0 +1,24 @@
+{
+ "headline": "A First Down for Indianapolis",
+ "what_happened": "D.Jones threw a short pass to J.Downs, who gained six yards to earn a new set of four chances to move the ball.",
+ "who": "D.Jones threw the pass to J.Downs, while L.Sneed and N.Bolton defended for the Chiefs.",
+ "why_it_matters": "This is bad news for the Chiefs because it keeps the opposing team moving down the field. Indianapolis is now closer to scoring and their chances of winning have increased by 7 percentage points.",
+ "pop_culture": "",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "J.Downs",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [],
+ "play_id": 3529.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

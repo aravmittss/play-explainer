@@ -1,0 +1,30 @@
+{
+ "headline": "Chiefs defense faces a tough reversal",
+ "what_happened": "A big catch by L.Treadwell from D.Jones was initially called a fumble recovery for the Chiefs, but officials overturned the ruling after review.",
+ "who": "D.Jones, L.Treadwell, N.Williams, and L.Sneed were involved.",
+ "why_it_matters": "This reversal is bad news for the Chiefs because it keeps the Colts' drive alive deep in Chiefs territory, swinging the win probability in the Colts' favor by 39 percentage points.",
+ "pop_culture": "Taylor Swift looked visibly frustrated on the suite cameras when the referees overturned the play.",
+ "team": "IND",
+ "verdict": "helped",
+ "players": [
+  {
+   "name": "D.Jones",
+   "role": "threw the pass"
+  },
+  {
+   "name": "L.Treadwell",
+   "role": "caught the pass"
+  }
+ ],
+ "read_more": [
+  {
+   "outlet": "ClutchPoints",
+   "title": "Taylor Swift's 3-word message after Travis Kelce's first TD",
+   "url": "https://clutchpoints.com/nfl/kansas-city-chiefs/chiefs-news-taylor-swift-3-word-message-travis-kelce-1st-td"
+  }
+ ],
+ "play_id": 4505.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}

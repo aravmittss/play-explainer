@@ -1,0 +1,20 @@
+{
+ "headline": "Chiefs kick a field goal",
+ "what_happened": "H.Butker successfully kicked a 31-yard field goal, which is a kick through the goalposts worth 3 points.",
+ "who": "H.Butker, J.Winchester, and M.Araiza.",
+ "why_it_matters": "The Chiefs are now leading by 3 points, which slightly increases their chances of winning the game.",
+ "pop_culture": "",
+ "team": "KC",
+ "verdict": "neutral",
+ "players": [
+  {
+   "name": "H.Butker",
+   "role": "kicked the field goal"
+  }
+ ],
+ "read_more": [],
+ "play_id": 4455.0,
+ "language": "English",
+ "source": "gemini",
+ "checks_failed": []
+}
