@@ -1,0 +1,238 @@
+{
+  "_README": "PLACEHOLDER DATA. These plays, times, players and scores are invented so the viewer can be tested before it is wired to Priya's explainer. Do not show them on Demo Day. Only the final score (33-30 OT) comes from the group chat.",
+  "personas_in_sample": ["swiftie", "beginner"],
+  "plays": [
+    {
+      "play_id": "sample-01", "order": 1, "quarter": 1, "clock": "12:10",
+      "situation": "3rd and 6 at IND 34", "video_time": 35,
+      "score": { "away": 0, "home": 0 },
+      "who": "Colts quarterback to a Colts receiver",
+      "impact": "helped", "impact_team": "IND", "wp_change": 0.03,
+      "explanations": {
+        "swiftie": {
+          "headline": "Colts keep the drive alive on 3rd down",
+          "what_happened": "A quick pass got the Colts past the line they needed. Now they get a fresh set of four tries.",
+          "why_it_matters": "Third down is the bridge of the song. Land it and the song keeps going. Miss it and you usually have to punt."
+        },
+        "beginner": {
+          "headline": "Colts convert on 3rd down",
+          "what_happened": "The Colts needed 6 yards and got them with a short pass.",
+          "why_it_matters": "A team gets four tries to move 10 yards. Making it on the third try resets the count, so they keep the ball."
+        }
+      }
+    },
+    {
+      "play_id": "sample-02", "order": 2, "quarter": 1, "clock": "7:48",
+      "situation": "1st and goal at KC 3", "video_time": 95,
+      "score": { "away": 7, "home": 0 },
+      "who": "Colts running back",
+      "impact": "helped", "impact_team": "IND", "wp_change": 0.06,
+      "explanations": {
+        "swiftie": {
+          "headline": "Touchdown, Colts",
+          "what_happened": "The Colts ran it in from 3 yards out. That is 6 points, plus 1 for the kick after.",
+          "why_it_matters": "First points of the night. Opening track energy."
+        },
+        "beginner": {
+          "headline": "Colts score a touchdown",
+          "what_happened": "A Colts runner carried the ball into the end zone, the painted area at the end of the field.",
+          "why_it_matters": "A touchdown is worth 6 points. The kick after adds 1, so the Colts lead 7-0."
+        }
+      }
+    },
+    {
+      "play_id": "sample-03", "order": 3, "quarter": 1, "clock": "2:30",
+      "situation": "4th and 1 at IND 45", "video_time": 130,
+      "score": { "away": 7, "home": 0 },
+      "who": "Chiefs quarterback",
+      "impact": "helped", "impact_team": "KC", "wp_change": 0.04,
+      "explanations": {
+        "swiftie": {
+          "headline": "Chiefs go for it on 4th down and get it",
+          "what_happened": "Instead of punting, the Chiefs tried a short run on their last try and made it.",
+          "why_it_matters": "Going for it on 4th down is a risk. Fail and the other team gets the ball right there."
+        },
+        "beginner": {
+          "headline": "Chiefs risk it on 4th down",
+          "what_happened": "On their fourth and last try, the Chiefs needed 1 yard and got it.",
+          "why_it_matters": "Most teams kick the ball away on 4th down. Going for it keeps the drive alive but gives the ball away if it fails."
+        }
+      }
+    },
+    {
+      "play_id": "sample-04", "order": 4, "quarter": 2, "clock": "10:55",
+      "situation": "2nd and 7 at IND 18", "video_time": 170,
+      "score": { "away": 7, "home": 7 },
+      "who": "Chiefs quarterback to the Chiefs tight end",
+      "impact": "helped", "impact_team": "KC", "wp_change": 0.07,
+      "pop_note": "Sample pop-culture note. Real notes come only from news articles the explainer cites.",
+      "read_more": [
+        { "title": "Sample read-more link", "url": "https://example.com/sample-article", "source": "example.com" }
+      ],
+      "explanations": {
+        "swiftie": {
+          "headline": "Touchdown pass to the tight end",
+          "what_happened": "The Chiefs quarterback found his tight end in the end zone. Tie game.",
+          "why_it_matters": "The tight end is the player who blocks and catches. This catch ties it at 7."
+        },
+        "beginner": {
+          "headline": "Chiefs tie it with a touchdown pass",
+          "what_happened": "A Chiefs pass was caught in the end zone for 6 points, plus 1 for the kick.",
+          "why_it_matters": "The game is tied 7-7."
+        }
+      }
+    },
+    {
+      "play_id": "sample-05", "order": 5, "quarter": 2, "clock": "4:20",
+      "situation": "3rd and 9 at KC 41", "video_time": 240,
+      "score": { "away": 7, "home": 7 },
+      "who": "Chiefs quarterback, picked off by a Colts defender",
+      "impact": "hurt", "impact_team": "KC", "wp_change": -0.09,
+      "explanations": {
+        "swiftie": {
+          "headline": "Interception: the Colts steal it",
+          "what_happened": "A Colts defender caught a pass meant for a Chiefs player. The Colts now have the ball.",
+          "why_it_matters": "A turnover is a plot twist. One team was attacking, and now the other team is."
+        },
+        "beginner": {
+          "headline": "Colts intercept a Chiefs pass",
+          "what_happened": "A Colts defender caught the ball instead of the Chiefs receiver.",
+          "why_it_matters": "An interception gives the ball to the other team. It is one of the biggest swings in a game."
+        }
+      }
+    },
+    {
+      "play_id": "sample-06", "order": 6, "quarter": 2, "clock": "0:03",
+      "situation": "4th and 4 at KC 33", "video_time": 300,
+      "score": { "away": 10, "home": 7 },
+      "who": "Colts kicker",
+      "impact": "helped", "impact_team": "IND", "wp_change": 0.04,
+      "explanations": {
+        "swiftie": {
+          "headline": "Colts kick a 51-yard field goal before halftime",
+          "what_happened": "With 3 seconds left in the half, the Colts kicked it through the posts for 3 points.",
+          "why_it_matters": "Colts lead 10-7 going into the break."
+        },
+        "beginner": {
+          "headline": "Colts field goal from 51 yards",
+          "what_happened": "The kicker sent the ball between the tall yellow posts.",
+          "why_it_matters": "A field goal is worth 3 points. Colts lead 10-7 at halftime."
+        }
+      }
+    },
+    {
+      "play_id": "sample-07", "order": 7, "quarter": 3, "clock": "8:41",
+      "situation": "3rd and 5 at KC 29", "video_time": null,
+      "score": { "away": 16, "home": 20 },
+      "who": "Colts pass rusher",
+      "impact": "hurt", "impact_team": "KC", "wp_change": -0.03,
+      "explanations": {
+        "swiftie": {
+          "headline": "Sack on 3rd down",
+          "what_happened": "A Colts defender tackled the Chiefs quarterback before he could throw.",
+          "why_it_matters": "The Chiefs lose yards and will likely have to punt."
+        },
+        "beginner": {
+          "headline": "Chiefs quarterback sacked",
+          "what_happened": "The quarterback was tackled behind the line before he could pass.",
+          "why_it_matters": "A sack loses yards. On 3rd down it usually means the team kicks the ball away."
+        }
+      }
+    },
+    {
+      "play_id": "sample-08", "order": 8, "quarter": 3, "clock": "1:05",
+      "situation": "3rd and 2 at KC 22", "video_time": 400,
+      "score": { "away": 23, "home": 20 },
+      "who": "Colts quarterback to a Colts receiver",
+      "impact": "helped", "impact_team": "IND", "wp_change": 0.08,
+      "explanations": {
+        "swiftie": {
+          "headline": "Colts take the lead back with a touchdown",
+          "what_happened": "A 22-yard catch in the corner of the end zone puts the Colts up 23-20.",
+          "why_it_matters": "Third quarter, lead change. This game is not a one-sided album."
+        },
+        "beginner": {
+          "headline": "Colts touchdown, Colts lead",
+          "what_happened": "A Colts receiver caught the ball in the end zone.",
+          "why_it_matters": "The Colts go back in front, 23-20."
+        }
+      }
+    },
+    {
+      "play_id": "sample-09", "order": 9, "quarter": 4, "clock": "5:12",
+      "situation": "1st and 10 at IND 35", "video_time": 470,
+      "score": { "away": 23, "home": 27 },
+      "who": "Chiefs running back",
+      "impact": "helped", "impact_team": "KC", "wp_change": 0.15,
+      "explanations": {
+        "swiftie": {
+          "headline": "Chiefs go 35 yards for the lead",
+          "what_happened": "A Chiefs runner broke free and went all the way. Chiefs lead 27-23.",
+          "why_it_matters": "Late in the 4th quarter, every score counts double for the nerves."
+        },
+        "beginner": {
+          "headline": "Long Chiefs touchdown run",
+          "what_happened": "A Chiefs runner got past the defense and ran 35 yards to score.",
+          "why_it_matters": "The Chiefs lead 27-23 with about 5 minutes left."
+        }
+      }
+    },
+    {
+      "play_id": "sample-10", "order": 10, "quarter": 4, "clock": "0:41",
+      "situation": "2nd and goal at KC 6", "video_time": 540,
+      "score": { "away": 30, "home": 27 },
+      "who": "Colts quarterback",
+      "impact": "helped", "impact_team": "IND", "wp_change": 0.31,
+      "explanations": {
+        "swiftie": {
+          "headline": "Colts score with 41 seconds left",
+          "what_happened": "The Colts quarterback ran it in himself. Colts lead 30-27.",
+          "why_it_matters": "With so little time left, the Chiefs need points fast or the game is over."
+        },
+        "beginner": {
+          "headline": "Colts touchdown late in the game",
+          "what_happened": "The Colts quarterback carried the ball into the end zone.",
+          "why_it_matters": "Colts lead 30-27 with 41 seconds to go."
+        }
+      }
+    },
+    {
+      "play_id": "sample-11", "order": 11, "quarter": 4, "clock": "0:00",
+      "situation": "4th and 7 at IND 37", "video_time": null,
+      "score": { "away": 30, "home": 30 },
+      "who": "Chiefs kicker",
+      "impact": "helped", "impact_team": "KC", "wp_change": 0.27,
+      "explanations": {
+        "swiftie": {
+          "headline": "Chiefs tie it as time runs out",
+          "what_happened": "A 55-yard kick at the buzzer makes it 30-30.",
+          "why_it_matters": "Tied after four quarters means overtime. Bonus track."
+        },
+        "beginner": {
+          "headline": "Field goal ties the game, overtime next",
+          "what_happened": "The Chiefs kicked a field goal with no time left.",
+          "why_it_matters": "A tie after 60 minutes sends the game to overtime, an extra period."
+        }
+      }
+    },
+    {
+      "play_id": "sample-12", "order": 12, "quarter": 5, "clock": "4:10",
+      "situation": "4th and 3 at IND 24", "video_time": 620,
+      "score": { "away": 30, "home": 33 },
+      "who": "Chiefs kicker",
+      "impact": "helped", "impact_team": "KC", "wp_change": 0.35,
+      "explanations": {
+        "swiftie": {
+          "headline": "Chiefs win it in overtime",
+          "what_happened": "A field goal in overtime ends it. Chiefs 33, Colts 30.",
+          "why_it_matters": "That's the final. The Chiefs take the win."
+        },
+        "beginner": {
+          "headline": "Overtime field goal wins it for the Chiefs",
+          "what_happened": "The Chiefs kicked a 42-yard field goal in overtime.",
+          "why_it_matters": "Final score: Chiefs 33, Colts 30."
+        }
+      }
+    }
+  ]
+}

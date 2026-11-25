@@ -24,6 +24,68 @@ from pipeline.explainer import explain, load_context
 from pipeline.video_sync import write_template, load_timestamps
 
 
+# ---------------------------------------------------------------- for the viewer server (step 5)
+# Chris's server (viewer/sources.py) calls explain_plays() and turns each item into a card.
+
+LANGUAGE_NAMES = {"en": "English", "es": "Spanish", "pt": "Portuguese", "ja": "Japanese", "fr": "French",
+                  "de": "German", "hi": "Hindi", "ko": "Korean", "zh": "Mandarin Chinese", "ar": "Arabic"}
+# Viewer persona ids that are named differently here.
+PERSONA_IDS = {"beginner": "new_fan"}
+TEAM_NAMES = {"KC": "KC (Kansas City Chiefs)", "IND": "IND (Indianapolis Colts)"}
+DEMO_GAME = "2026_02_IND_KC"
+
+
+def situation_text(play):
+    if play.get("down") is None:
+        return play.get("play_type", "").replace("_", " ")
+    ordinal = {1: "1st", 2: "2nd", 3: "3rd", 4: "4th"}.get(int(play["down"]), str(play["down"]))
+    to_go = play.get("yardline_100")
+    if to_go is None:
+        return ordinal + " & " + str(play["ydstogo"])
+    to_go = int(to_go)
+    if to_go == 50:
+        spot = "midfield"
+    elif to_go < 50:
+        spot = play["defteam"] + " " + str(to_go)
+    else:
+        spot = play["posteam"] + " " + str(100 - to_go)
+    distance = "Goal" if to_go <= int(play["ydstogo"]) else str(play["ydstogo"])
+    return ordinal + " & " + distance + " at " + spot
+
+
+def explain_plays(persona="swiftie", language="en", team=None, notes="", provider="gemini", game=DEMO_GAME):
+    """Every big moment of the game, explained for one viewer. Saved answers come back instantly;
+    anything not saved yet is written by the AI (about 5 seconds a moment on the free Gemini tier)."""
+    persona = PERSONA_IDS.get(persona, persona)
+    note_list = [n.strip() for n in str(notes or "").split("\n") if n.strip()]
+    profile = make_profile(persona, language=LANGUAGE_NAMES.get(language, language), notes=note_list)
+    if team:
+        # Keep the persona's own wording when it already roots for this team, so saved answers still match.
+        current = profile.get("roots_for") or ""
+        if not current.startswith(team + " "):
+            profile["roots_for"] = TEAM_NAMES.get(team, team)
+    context = load_context(game)
+    times = load_timestamps(game)
+    cards = []
+    for index, play in enumerate(high_leverage(load_game(game))):
+        item = explain(play, profile, provider=provider, context=context)
+        span = times.get(float(play["play_id"]))
+        item["order"] = index
+        item["video_start"] = span[0] if span else None
+        item["video_end"] = span[1] if span else None
+        item["qtr"] = play["qtr"]
+        item["clock"] = play["time"]
+        item["situation"] = situation_text(play)
+        item["away_score"] = play["total_away_score"]
+        item["home_score"] = play["total_home_score"]
+        item["score_text"] = play["away_team"] + " " + str(play["total_away_score"]) + " - " + str(play["total_home_score"]) + " " + play["home_team"]
+        item["impact_team"] = play["posteam"]   # helped/hurt is measured for the team with the ball
+        item["wpa"] = play.get("wpa")
+        item["read_more"] = [{"title": s.get("title"), "url": s.get("url"), "source": s.get("outlet")} for s in item.get("read_more", [])]
+        cards.append(item)
+    return cards
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--game", default="2026_02_IND_KC")

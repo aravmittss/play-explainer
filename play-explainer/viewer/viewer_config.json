@@ -1,0 +1,28 @@
+{
+  "game": {
+    "title": "Colts at Chiefs",
+    "season": 2026,
+    "week": 2,
+    "away": { "abbr": "IND", "name": "Colts", "color": "#3B7DDD" },
+    "home": { "abbr": "KC", "name": "Chiefs", "color": "#E31837" },
+    "final": "Chiefs win 33-30 in overtime"
+  },
+  "video": {
+    "type": "youtube",
+    "youtube_id": "u_6l6aXxKdo",
+    "mp4_url": null
+  },
+  "default_persona": "swiftie",
+  "personas": [
+    { "id": "swiftie", "label": "Swiftie", "blurb": "Pop-culture notes from real news coverage", "ready": true },
+    { "id": "beginner", "label": "New to football", "blurb": "No rules assumed", "ready": false },
+    { "id": "soccer_fan", "label": "Soccer fan", "blurb": "Explains plays through soccer", "ready": false },
+    { "id": "spanish_casual", "label": "Casual fan (Spanish)", "blurb": "Short and friendly, in Spanish", "ready": false }
+  ],
+  "languages": [
+    { "code": "en", "label": "English" },
+    { "code": "es", "label": "Español" },
+    { "code": "pt", "label": "Português" },
+    { "code": "ja", "label": "日本語" }
+  ]
+}

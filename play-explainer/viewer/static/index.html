@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" href="data:,">
+  <title>Play Explainer: Colts at Chiefs</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Barlow+Condensed:wght@500;600;700&display=swap">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <p class="banner" id="banner" hidden></p>
+
+  <header class="bug">
+    <div class="score" aria-label="Score">
+      <div class="team" id="awayTeam"><span class="chip"></span><span class="name"></span><span class="pts" id="awayPts">0</span></div>
+      <div class="team" id="homeTeam"><span class="chip"></span><span class="name"></span><span class="pts" id="homePts">0</span></div>
+      <div class="clock" id="gameClock">Kickoff</div>
+    </div>
+
+    <div class="prefs">
+      <label class="pref">
+        <span>Explain it for</span>
+        <select id="persona"></select>
+      </label>
+      <label class="pref">
+        <span>Language</span>
+        <select id="language"></select>
+      </label>
+      <fieldset class="pref root" id="rootFor">
+        <legend>Rooting for</legend>
+        <div class="seg" id="teamSeg"></div>
+      </fieldset>
+    </div>
+  </header>
+
+  <main class="stage">
+    <section class="screen" aria-label="Game video">
+      <div class="player" id="player">
+        <div id="yt"></div>
+        <video id="mp4" playsinline controls hidden></video>
+        <canvas id="overlay" aria-hidden="true"></canvas>
+        <div class="stand-in" id="standIn" hidden>
+          <p id="standInText"></p>
+        </div>
+        <div class="lower-third" id="lowerThird" aria-hidden="true">
+          <span class="lt-tag" id="ltTag"></span>
+          <span class="lt-head" id="ltHead"></span>
+        </div>
+      </div>
+
+      <div class="transport">
+        <div class="modes" role="radiogroup" aria-label="How plays appear">
+          <button type="button" role="radio" data-mode="video" aria-checked="true">Sync to video</button>
+          <button type="button" role="radio" data-mode="replay" aria-checked="false">Replay without video</button>
+        </div>
+        <div class="controls">
+          <button type="button" id="playBtn">Play</button>
+          <button type="button" id="restartBtn">Restart</button>
+          <label class="speed" id="speedWrap" hidden>
+            <span>One play every</span>
+            <select id="speed">
+              <option value="5">5 seconds</option>
+              <option value="10" selected>10 seconds</option>
+              <option value="20">20 seconds</option>
+            </select>
+          </label>
+        </div>
+      </div>
+
+      <div class="field" id="field">
+        <div class="yardlines" aria-hidden="true"></div>
+        <ol class="marks" id="marks" aria-label="Big moments on the timeline"></ol>
+        <div class="playhead" id="playhead" aria-hidden="true"></div>
+      </div>
+
+      <form class="notes" id="notesForm">
+        <label for="notes">Tell the explainer about you</label>
+        <div class="notes-row">
+          <input id="notes" maxlength="500" autocomplete="off" placeholder="I only know soccer. Keep it short.">
+          <button type="submit">Update explanations</button>
+        </div>
+      </form>
+    </section>
+
+    <aside class="feed" aria-label="Big moments">
+      <div class="feed-head">
+        <h1 id="gameTitle">Big moments</h1>
+        <p class="status" id="status" role="status"></p>
+      </div>
+      <ol class="cards" id="cards"></ol>
+      <p class="empty" id="empty">Press play. Each big moment shows up here when the video reaches it.</p>
+    </aside>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

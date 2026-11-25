@@ -10,7 +10,7 @@ import os
 
 
 def timestamps_path(game_id):
-    return os.path.join("data", game_id + "_timestamps.csv")
+    return os.path.join(os.path.dirname(__file__), "..", "data", game_id + "_timestamps.csv")
 
 
 def write_template(game_id, moments):
